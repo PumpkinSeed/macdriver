@@ -1,0 +1,384 @@
+{
+  "Class": {
+    "Name": "CBPeripheral",
+    "Declaration": "@interface CBPeripheral : CBPeer",
+    "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbperipheral?language=objc",
+    "InstanceMethods": [
+      {
+        "Name": "discoverServices:",
+        "Description": "",
+        "Declaration": "- (void)discoverServices:(NSArray\u003cCBUUID *\u003e *)serviceUUIDs;",
+        "Return": {
+          "Name": "void"
+        },
+        "Args": [
+          {
+            "Name": "serviceUUIDs",
+            "Type": {
+              "Name": "NSArray",
+              "IsPtr": true,
+              "Params": [
+                {
+                  "Name": "CBUUID",
+                  "IsPtr": true
+                }
+              ]
+            }
+          }
+        ],
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbperipheral/1518706-discoverservices?language=objc"
+      },
+      {
+        "Name": "discoverIncludedServices:forService:",
+        "Description": "",
+        "Declaration": "- (void)discoverIncludedServices:(NSArray\u003cCBUUID *\u003e *)includedServiceUUIDs \n                      forService:(CBService *)service;\n",
+        "Return": {
+          "Name": "void"
+        },
+        "Args": [
+          {
+            "Name": "includedServiceUUIDs",
+            "Type": {
+              "Name": "NSArray",
+              "IsPtr": true,
+              "Params": [
+                {
+                  "Name": "CBUUID",
+                  "IsPtr": true
+                }
+              ]
+            }
+          },
+          {
+            "Name": "service",
+            "Type": {
+              "Name": "CBService",
+              "IsPtr": true
+            }
+          }
+        ],
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbperipheral/1519014-discoverincludedservices?language=objc"
+      },
+      {
+        "Name": "discoverCharacteristics:forService:",
+        "Description": "",
+        "Declaration": "- (void)discoverCharacteristics:(NSArray\u003cCBUUID *\u003e *)characteristicUUIDs \n                     forService:(CBService *)service;\n",
+        "Return": {
+          "Name": "void"
+        },
+        "Args": [
+          {
+            "Name": "characteristicUUIDs",
+            "Type": {
+              "Name": "NSArray",
+              "IsPtr": true,
+              "Params": [
+                {
+                  "Name": "CBUUID",
+                  "IsPtr": true
+                }
+              ]
+            }
+          },
+          {
+            "Name": "service",
+            "Type": {
+              "Name": "CBService",
+              "IsPtr": true
+            }
+          }
+        ],
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbperipheral/1518797-discovercharacteristics?language=objc"
+      },
+      {
+        "Name": "discoverDescriptorsForCharacteristic:",
+        "Description": "",
+        "Declaration": "- (void)discoverDescriptorsForCharacteristic:(CBCharacteristic *)characteristic;",
+        "Return": {
+          "Name": "void"
+        },
+        "Args": [
+          {
+            "Name": "characteristic",
+            "Type": {
+              "Name": "CBCharacteristic",
+              "IsPtr": true
+            }
+          }
+        ],
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbperipheral/1519070-discoverdescriptorsforcharacteri?language=objc"
+      },
+      {
+        "Name": "readValueForCharacteristic:",
+        "Description": "",
+        "Declaration": "- (void)readValueForCharacteristic:(CBCharacteristic *)characteristic;",
+        "Return": {
+          "Name": "void"
+        },
+        "Args": [
+          {
+            "Name": "characteristic",
+            "Type": {
+              "Name": "CBCharacteristic",
+              "IsPtr": true
+            }
+          }
+        ],
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbperipheral/1518759-readvalueforcharacteristic?language=objc"
+      },
+      {
+        "Name": "readValueForDescriptor:",
+        "Description": "",
+        "Declaration": "- (void)readValueForDescriptor:(CBDescriptor *)descriptor;",
+        "Return": {
+          "Name": "void"
+        },
+        "Args": [
+          {
+            "Name": "descriptor",
+            "Type": {
+              "Name": "CBDescriptor",
+              "IsPtr": true
+            }
+          }
+        ],
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbperipheral/1518789-readvaluefordescriptor?language=objc"
+      },
+      {
+        "Name": "writeValue:forCharacteristic:type:",
+        "Description": "",
+        "Declaration": "- (void)writeValue:(NSData *)data \n forCharacteristic:(CBCharacteristic *)characteristic \n              type:(CBCharacteristicWriteType)type;\n",
+        "Return": {
+          "Name": "void"
+        },
+        "Args": [
+          {
+            "Name": "data",
+            "Type": {
+              "Name": "NSData",
+              "IsPtr": true
+            }
+          },
+          {
+            "Name": "characteristic",
+            "Type": {
+              "Name": "CBCharacteristic",
+              "IsPtr": true
+            }
+          },
+          {
+            "Name": "type",
+            "Type": {
+              "Name": "CBCharacteristicWriteType"
+            }
+          }
+        ],
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbperipheral/1518747-writevalue?language=objc"
+      },
+      {
+        "Name": "writeValue:forDescriptor:",
+        "Description": "",
+        "Declaration": "- (void)writeValue:(NSData *)data \n     forDescriptor:(CBDescriptor *)descriptor;\n",
+        "Return": {
+          "Name": "void"
+        },
+        "Args": [
+          {
+            "Name": "data",
+            "Type": {
+              "Name": "NSData",
+              "IsPtr": true
+            }
+          },
+          {
+            "Name": "descriptor",
+            "Type": {
+              "Name": "CBDescriptor",
+              "IsPtr": true
+            }
+          }
+        ],
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbperipheral/1519107-writevalue?language=objc"
+      },
+      {
+        "Name": "maximumWriteValueLengthForType:",
+        "Description": "",
+        "Declaration": "- (NSUInteger)maximumWriteValueLengthForType:(CBCharacteristicWriteType)type;",
+        "Return": {
+          "Name": "NSUInteger"
+        },
+        "Args": [
+          {
+            "Name": "type",
+            "Type": {
+              "Name": "CBCharacteristicWriteType"
+            }
+          }
+        ],
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbperipheral/1620312-maximumwritevaluelengthfortype?language=objc"
+      },
+      {
+        "Name": "setNotifyValue:forCharacteristic:",
+        "Description": "",
+        "Declaration": "- (void)setNotifyValue:(BOOL)enabled \n     forCharacteristic:(CBCharacteristic *)characteristic;\n",
+        "Return": {
+          "Name": "void"
+        },
+        "Args": [
+          {
+            "Name": "enabled",
+            "Type": {
+              "Name": "BOOL"
+            }
+          },
+          {
+            "Name": "characteristic",
+            "Type": {
+              "Name": "CBCharacteristic",
+              "IsPtr": true
+            }
+          }
+        ],
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbperipheral/1518949-setnotifyvalue?language=objc"
+      },
+      {
+        "Name": "readRSSI",
+        "Description": "",
+        "Declaration": "- (void)readRSSI;",
+        "Return": {
+          "Name": "void"
+        },
+        "Args": null,
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbperipheral/1519111-readrssi?language=objc"
+      },
+      {
+        "Name": "openL2CAPChannel:",
+        "Description": "",
+        "Declaration": "- (void)openL2CAPChannel:(CBL2CAPPSM)PSM;",
+        "Return": {
+          "Name": "void"
+        },
+        "Args": [
+          {
+            "Name": "PSM",
+            "Type": {
+              "Name": "CBL2CAPPSM"
+            }
+          }
+        ],
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbperipheral/2880151-openl2capchannel?language=objc"
+      }
+    ],
+    "InstanceProperties": [
+      {
+        "Name": "name",
+        "Description": "",
+        "Declaration": "@property(retain, readonly, nullable) NSString *name;",
+        "Type": {
+          "Name": "NSString",
+          "IsPtr": true
+        },
+        "Attrs": {
+          "nullable": true,
+          "readonly": true,
+          "retain": true
+        },
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbperipheral/1519029-name?language=objc"
+      },
+      {
+        "Name": "delegate",
+        "Description": "",
+        "Declaration": "@property(weak, nonatomic, nullable) id\u003cCBPeripheralDelegate\u003e delegate;",
+        "Type": {
+          "Name": "id",
+          "Params": [
+            {
+              "Name": "CBPeripheralDelegate"
+            }
+          ]
+        },
+        "Attrs": {
+          "nonatomic": true,
+          "nullable": true,
+          "weak": true
+        },
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbperipheral/1518730-delegate?language=objc"
+      },
+      {
+        "Name": "services",
+        "Description": "",
+        "Declaration": "@property(retain, readonly, nullable) NSArray\u003cCBService *\u003e *services;",
+        "Type": {
+          "Name": "NSArray",
+          "IsPtr": true,
+          "Params": [
+            {
+              "Name": "CBService",
+              "IsPtr": true
+            }
+          ]
+        },
+        "Attrs": {
+          "nullable": true,
+          "readonly": true,
+          "retain": true
+        },
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbperipheral/1518978-services?language=objc"
+      },
+      {
+        "Name": "state",
+        "Description": "",
+        "Declaration": "@property(readonly) CBPeripheralState state;",
+        "Type": {
+          "Name": "CBPeripheralState"
+        },
+        "Attrs": {
+          "readonly": true
+        },
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbperipheral/1519113-state?language=objc"
+      },
+      {
+        "Name": "canSendWriteWithoutResponse",
+        "Description": "",
+        "Declaration": "@property(readonly) BOOL canSendWriteWithoutResponse;",
+        "Type": {
+          "Name": "BOOL"
+        },
+        "Attrs": {
+          "readonly": true
+        },
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbperipheral/2891512-cansendwritewithoutresponse?language=objc"
+      },
+      {
+        "Name": "RSSI",
+        "Description": "",
+        "Declaration": "@property(retain, readonly, nullable) NSNumber *RSSI;",
+        "Type": {
+          "Name": "NSNumber",
+          "IsPtr": true
+        },
+        "Attrs": {
+          "nullable": true,
+          "readonly": true,
+          "retain": true
+        },
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbperipheral/1518869-rssi?language=objc"
+      },
+      {
+        "Name": "ancsAuthorized",
+        "Description": "",
+        "Declaration": "@property(readonly) BOOL ancsAuthorized;",
+        "Type": {
+          "Name": "BOOL"
+        },
+        "Attrs": {
+          "readonly": true
+        },
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbperipheral/3180040-ancsauthorized?language=objc"
+      }
+    ]
+  },
+  "Kind": "class",
+  "PullDate": "2022-07-14T23:31:49.294842213+02:00",
+  "Version": 2
+}

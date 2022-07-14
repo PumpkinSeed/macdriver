@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbperipheraldelegate/1518929-peripheral?language=objc",
+  "Title": "peripheral:didUpdateValueForDescriptor:error:",
+  "Type": "Instance Method",
+  "Description": "",
+  "Declaration": "- (void)peripheral:(CBPeripheral *)peripheral \ndidUpdateValueForDescriptor:(CBDescriptor *)descriptor \n             error:(NSError *)error;\n",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:32:05.846292144+02:00",
+  "LastVersion": 2
+}

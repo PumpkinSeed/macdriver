@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbattributepermissions/cbattributepermissionswriteencryptionrequired?language=objc",
+  "Title": "CBAttributePermissionsWriteEncryptionRequired",
+  "Type": "Enumeration Case",
+  "Description": "",
+  "Declaration": "CBAttributePermissionsWriteEncryptionRequired = 0x08",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:32:41.956037694+02:00",
+  "LastVersion": 2
+}

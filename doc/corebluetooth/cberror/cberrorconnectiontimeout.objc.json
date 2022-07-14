@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cberror/cberrorconnectiontimeout?language=objc",
+  "Title": "CBErrorConnectionTimeout",
+  "Type": "Enumeration Case",
+  "Description": "",
+  "Declaration": "CBErrorConnectionTimeout = 6",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:33:45.402801028+02:00",
+  "LastVersion": 2
+}

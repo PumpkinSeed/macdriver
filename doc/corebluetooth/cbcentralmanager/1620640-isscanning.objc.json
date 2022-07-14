@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbcentralmanager/1620640-isscanning?language=objc",
+  "Title": "isScanning",
+  "Type": "Instance Property",
+  "Description": "",
+  "Declaration": "@property(nonatomic, assign, readonly) BOOL isScanning;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:31:35.592456584+02:00",
+  "LastVersion": 2
+}

@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbpeer/1620687-identifier?language=objc",
+  "Title": "identifier",
+  "Type": "Instance Property",
+  "Description": "",
+  "Declaration": "@property(readonly, nonatomic) NSUUID *identifier;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:33:31.169370971+02:00",
+  "LastVersion": 2
+}

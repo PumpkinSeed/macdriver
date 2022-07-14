@@ -1,0 +1,33 @@
+{
+  "Path": "/documentation/corebluetooth/cbservice?language=objc",
+  "Title": "CBService",
+  "Type": "Class",
+  "Description": "",
+  "Declaration": "@interface CBService : CBAttribute",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": [
+    {
+      "Section": "Identifying a Service",
+      "Name": "peripheral",
+      "Path": "/documentation/corebluetooth/cbservice/1434334-peripheral?language=objc"
+    },
+    {
+      "Section": "Identifying a Service",
+      "Name": "isPrimary",
+      "Path": "/documentation/corebluetooth/cbservice/1434326-isprimary?language=objc"
+    },
+    {
+      "Section": "Accessing Service Data",
+      "Name": "characteristics",
+      "Path": "/documentation/corebluetooth/cbservice/1434319-characteristics?language=objc"
+    },
+    {
+      "Section": "Accessing Service Data",
+      "Name": "includedServices",
+      "Path": "/documentation/corebluetooth/cbservice/1434324-includedservices?language=objc"
+    }
+  ],
+  "LastFetch": "2022-07-14T23:32:45.436447077+02:00",
+  "LastVersion": 2
+}

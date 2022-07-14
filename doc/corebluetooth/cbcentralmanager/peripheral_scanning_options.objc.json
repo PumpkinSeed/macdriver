@@ -1,0 +1,23 @@
+{
+  "Path": "/documentation/corebluetooth/cbcentralmanager/peripheral_scanning_options?language=objc",
+  "Title": "Peripheral Scanning Options",
+  "Type": "API Collection",
+  "Description": "",
+  "Declaration": "",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": [
+    {
+      "Section": "Constants",
+      "Name": "CBCentralManagerScanOptionAllowDuplicatesKey",
+      "Path": "/documentation/corebluetooth/cbcentralmanagerscanoptionallowduplicateskey?language=objc"
+    },
+    {
+      "Section": "Constants",
+      "Name": "CBCentralManagerScanOptionSolicitedServiceUUIDsKey",
+      "Path": "/documentation/corebluetooth/cbcentralmanagerscanoptionsolicitedserviceuuidskey?language=objc"
+    }
+  ],
+  "LastFetch": "2022-07-14T23:31:35.450677531+02:00",
+  "LastVersion": 2
+}

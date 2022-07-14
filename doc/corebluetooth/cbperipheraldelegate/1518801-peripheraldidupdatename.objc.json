@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbperipheraldelegate/1518801-peripheraldidupdatename?language=objc",
+  "Title": "peripheralDidUpdateName:",
+  "Type": "Instance Method",
+  "Description": "",
+  "Declaration": "- (void)peripheralDidUpdateName:(CBPeripheral *)peripheral;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:32:09.36399416+02:00",
+  "LastVersion": 2
+}

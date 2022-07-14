@@ -1,0 +1,28 @@
+{
+  "Path": "/documentation/corebluetooth/cbmutableservice?language=objc",
+  "Title": "CBMutableService",
+  "Type": "Class",
+  "Description": "",
+  "Declaration": "@interface CBMutableService : CBService",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": [
+    {
+      "Section": "Creating a Mutable Service",
+      "Name": "- initWithType:primary:",
+      "Path": "/documentation/corebluetooth/cbmutableservice/1434330-initwithtype?language=objc"
+    },
+    {
+      "Section": "Managing a Mutable Service",
+      "Name": "characteristics",
+      "Path": "/documentation/corebluetooth/cbmutableservice/1434317-characteristics?language=objc"
+    },
+    {
+      "Section": "Managing a Mutable Service",
+      "Name": "includedServices",
+      "Path": "/documentation/corebluetooth/cbmutableservice/1434320-includedservices?language=objc"
+    }
+  ],
+  "LastFetch": "2022-07-14T23:32:51.463973294+02:00",
+  "LastVersion": 2
+}

@@ -1,0 +1,48 @@
+{
+  "Path": "/documentation/corebluetooth/cbmutablecharacteristic?language=objc",
+  "Title": "CBMutableCharacteristic",
+  "Type": "Class",
+  "Description": "",
+  "Declaration": "@interface CBMutableCharacteristic : CBCharacteristic",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": [
+    {
+      "Section": "Creating a Mutable Characteristic",
+      "Name": "- initWithType:properties:value:permissions:",
+      "Path": "/documentation/corebluetooth/cbmutablecharacteristic/1519073-initwithtype?language=objc"
+    },
+    {
+      "Section": "Managing a Mutable Characteristic",
+      "Name": "value",
+      "Path": "/documentation/corebluetooth/cbmutablecharacteristic/1519121-value?language=objc"
+    },
+    {
+      "Section": "Managing a Mutable Characteristic",
+      "Name": "descriptors",
+      "Path": "/documentation/corebluetooth/cbmutablecharacteristic/1518827-descriptors?language=objc"
+    },
+    {
+      "Section": "Managing a Mutable Characteristic",
+      "Name": "properties",
+      "Path": "/documentation/corebluetooth/cbmutablecharacteristic/1519087-properties?language=objc"
+    },
+    {
+      "Section": "Managing a Mutable Characteristic",
+      "Name": "permissions",
+      "Path": "/documentation/corebluetooth/cbmutablecharacteristic/1518891-permissions?language=objc"
+    },
+    {
+      "Section": "Managing a Mutable Characteristic",
+      "Name": "CBAttributePermissions",
+      "Path": "/documentation/corebluetooth/cbattributepermissions?language=objc"
+    },
+    {
+      "Section": "Managing a Mutable Characteristic",
+      "Name": "subscribedCentrals",
+      "Path": "/documentation/corebluetooth/cbmutablecharacteristic/1518926-subscribedcentrals?language=objc"
+    }
+  ],
+  "LastFetch": "2022-07-14T23:33:03.573784029+02:00",
+  "LastVersion": 2
+}

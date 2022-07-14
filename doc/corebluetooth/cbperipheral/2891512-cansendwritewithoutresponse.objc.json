@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbperipheral/2891512-cansendwritewithoutresponse?language=objc",
+  "Title": "canSendWriteWithoutResponse",
+  "Type": "Instance Property",
+  "Description": "",
+  "Declaration": "@property(readonly) BOOL canSendWriteWithoutResponse;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:31:58.113988458+02:00",
+  "LastVersion": 2
+}

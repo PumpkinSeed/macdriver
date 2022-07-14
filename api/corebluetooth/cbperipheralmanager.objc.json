@@ -1,0 +1,344 @@
+{
+  "Class": {
+    "Name": "CBPeripheralManager",
+    "Declaration": "@interface CBPeripheralManager : CBManager",
+    "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbperipheralmanager?language=objc",
+    "InstanceMethods": [
+      {
+        "Name": "init",
+        "Description": "",
+        "Declaration": "- (instancetype)init;",
+        "Return": {
+          "Name": "instancetype"
+        },
+        "Args": null,
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbperipheralmanager/1648153-init?language=objc"
+      },
+      {
+        "Name": "initWithDelegate:queue:",
+        "Description": "",
+        "Declaration": "- (instancetype)initWithDelegate:(id\u003cCBPeripheralManagerDelegate\u003e)delegate \n                           queue:(dispatch_queue_t)queue;\n",
+        "Return": {
+          "Name": "instancetype"
+        },
+        "Args": [
+          {
+            "Name": "delegate",
+            "Type": {
+              "Name": "id",
+              "Params": [
+                {
+                  "Name": "CBPeripheralManagerDelegate"
+                }
+              ]
+            }
+          },
+          {
+            "Name": "queue",
+            "Type": {
+              "Name": "dispatch_queue_t"
+            }
+          }
+        ],
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbperipheralmanager/1393299-initwithdelegate?language=objc"
+      },
+      {
+        "Name": "initWithDelegate:queue:options:",
+        "Description": "",
+        "Declaration": "- (instancetype)initWithDelegate:(id\u003cCBPeripheralManagerDelegate\u003e)delegate \n                           queue:(dispatch_queue_t)queue \n                         options:(NSDictionary\u003cNSString *,id\u003e *)options;\n",
+        "Return": {
+          "Name": "instancetype"
+        },
+        "Args": [
+          {
+            "Name": "delegate",
+            "Type": {
+              "Name": "id",
+              "Params": [
+                {
+                  "Name": "CBPeripheralManagerDelegate"
+                }
+              ]
+            }
+          },
+          {
+            "Name": "queue",
+            "Type": {
+              "Name": "dispatch_queue_t"
+            }
+          },
+          {
+            "Name": "options",
+            "Type": {
+              "Name": "NSDictionary",
+              "IsPtr": true,
+              "Params": [
+                {
+                  "Name": "NSString",
+                  "IsPtr": true
+                },
+                {
+                  "Name": "id"
+                }
+              ]
+            }
+          }
+        ],
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbperipheralmanager/1393295-initwithdelegate?language=objc"
+      },
+      {
+        "Name": "addService:",
+        "Description": "",
+        "Declaration": "- (void)addService:(CBMutableService *)service;",
+        "Return": {
+          "Name": "void"
+        },
+        "Args": [
+          {
+            "Name": "service",
+            "Type": {
+              "Name": "CBMutableService",
+              "IsPtr": true
+            }
+          }
+        ],
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbperipheralmanager/1393255-addservice?language=objc"
+      },
+      {
+        "Name": "removeService:",
+        "Description": "",
+        "Declaration": "- (void)removeService:(CBMutableService *)service;",
+        "Return": {
+          "Name": "void"
+        },
+        "Args": [
+          {
+            "Name": "service",
+            "Type": {
+              "Name": "CBMutableService",
+              "IsPtr": true
+            }
+          }
+        ],
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbperipheralmanager/1393287-removeservice?language=objc"
+      },
+      {
+        "Name": "removeAllServices",
+        "Description": "",
+        "Declaration": "- (void)removeAllServices;",
+        "Return": {
+          "Name": "void"
+        },
+        "Args": null,
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbperipheralmanager/1393269-removeallservices?language=objc"
+      },
+      {
+        "Name": "startAdvertising:",
+        "Description": "",
+        "Declaration": "- (void)startAdvertising:(NSDictionary\u003cNSString *,id\u003e *)advertisementData;",
+        "Return": {
+          "Name": "void"
+        },
+        "Args": [
+          {
+            "Name": "advertisementData",
+            "Type": {
+              "Name": "NSDictionary",
+              "IsPtr": true,
+              "Params": [
+                {
+                  "Name": "NSString",
+                  "IsPtr": true
+                },
+                {
+                  "Name": "id"
+                }
+              ]
+            }
+          }
+        ],
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbperipheralmanager/1393252-startadvertising?language=objc"
+      },
+      {
+        "Name": "stopAdvertising",
+        "Description": "",
+        "Declaration": "- (void)stopAdvertising;",
+        "Return": {
+          "Name": "void"
+        },
+        "Args": null,
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbperipheralmanager/1393275-stopadvertising?language=objc"
+      },
+      {
+        "Name": "updateValue:forCharacteristic:onSubscribedCentrals:",
+        "Description": "",
+        "Declaration": "- (BOOL)updateValue:(NSData *)value \n  forCharacteristic:(CBMutableCharacteristic *)characteristic \nonSubscribedCentrals:(NSArray\u003cCBCentral *\u003e *)centrals;\n",
+        "Return": {
+          "Name": "BOOL"
+        },
+        "Args": [
+          {
+            "Name": "value",
+            "Type": {
+              "Name": "NSData",
+              "IsPtr": true
+            }
+          },
+          {
+            "Name": "characteristic",
+            "Type": {
+              "Name": "CBMutableCharacteristic",
+              "IsPtr": true
+            }
+          },
+          {
+            "Name": "centrals",
+            "Type": {
+              "Name": "NSArray",
+              "IsPtr": true,
+              "Params": [
+                {
+                  "Name": "CBCentral",
+                  "IsPtr": true
+                }
+              ]
+            }
+          }
+        ],
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbperipheralmanager/1393281-updatevalue?language=objc"
+      },
+      {
+        "Name": "respondToRequest:withResult:",
+        "Description": "",
+        "Declaration": "- (void)respondToRequest:(CBATTRequest *)request \n              withResult:(CBATTError)result;\n",
+        "Return": {
+          "Name": "void"
+        },
+        "Args": [
+          {
+            "Name": "request",
+            "Type": {
+              "Name": "CBATTRequest",
+              "IsPtr": true
+            }
+          },
+          {
+            "Name": "result",
+            "Type": {
+              "Name": "CBATTError"
+            }
+          }
+        ],
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbperipheralmanager/1393293-respondtorequest?language=objc"
+      },
+      {
+        "Name": "setDesiredConnectionLatency:forCentral:",
+        "Description": "",
+        "Declaration": "- (void)setDesiredConnectionLatency:(CBPeripheralManagerConnectionLatency)latency \n                         forCentral:(CBCentral *)central;\n",
+        "Return": {
+          "Name": "void"
+        },
+        "Args": [
+          {
+            "Name": "latency",
+            "Type": {
+              "Name": "CBPeripheralManagerConnectionLatency"
+            }
+          },
+          {
+            "Name": "central",
+            "Type": {
+              "Name": "CBCentral",
+              "IsPtr": true
+            }
+          }
+        ],
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbperipheralmanager/1393277-setdesiredconnectionlatency?language=objc"
+      },
+      {
+        "Name": "publishL2CAPChannelWithEncryption:",
+        "Description": "",
+        "Declaration": "- (void)publishL2CAPChannelWithEncryption:(BOOL)encryptionRequired;",
+        "Return": {
+          "Name": "void"
+        },
+        "Args": [
+          {
+            "Name": "encryptionRequired",
+            "Type": {
+              "Name": "BOOL"
+            }
+          }
+        ],
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbperipheralmanager/2880160-publishl2capchannelwithencryptio?language=objc"
+      },
+      {
+        "Name": "unpublishL2CAPChannel:",
+        "Description": "",
+        "Declaration": "- (void)unpublishL2CAPChannel:(CBL2CAPPSM)PSM;",
+        "Return": {
+          "Name": "void"
+        },
+        "Args": [
+          {
+            "Name": "PSM",
+            "Type": {
+              "Name": "CBL2CAPPSM"
+            }
+          }
+        ],
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbperipheralmanager/2880158-unpublishl2capchannel?language=objc"
+      }
+    ],
+    "InstanceProperties": [
+      {
+        "Name": "delegate",
+        "Description": "",
+        "Declaration": "@property(nonatomic, weak, nullable) id\u003cCBPeripheralManagerDelegate\u003e delegate;",
+        "Type": {
+          "Name": "id",
+          "Params": [
+            {
+              "Name": "CBPeripheralManagerDelegate"
+            }
+          ]
+        },
+        "Attrs": {
+          "nonatomic": true,
+          "nullable": true,
+          "weak": true
+        },
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbperipheralmanager/1393313-delegate?language=objc"
+      },
+      {
+        "Name": "isAdvertising",
+        "Description": "",
+        "Declaration": "@property(nonatomic, assign, readonly) BOOL isAdvertising;",
+        "Type": {
+          "Name": "BOOL"
+        },
+        "Attrs": {
+          "assign": true,
+          "nonatomic": true,
+          "readonly": true
+        },
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbperipheralmanager/1393291-isadvertising?language=objc"
+      }
+    ],
+    "TypeMethods": [
+      {
+        "Name": "authorizationStatus",
+        "Description": "",
+        "Declaration": "+ (CBPeripheralManagerAuthorizationStatus)authorizationStatus;",
+        "Return": {
+          "Name": "CBPeripheralManagerAuthorizationStatus"
+        },
+        "Args": null,
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbperipheralmanager/1616317-authorizationstatus?language=objc"
+      }
+    ]
+  },
+  "Kind": "class",
+  "PullDate": "2022-07-14T23:32:12.981196708+02:00",
+  "Version": 2
+}

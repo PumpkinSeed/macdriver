@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbservice/1434334-peripheral?language=objc",
+  "Title": "peripheral",
+  "Type": "Instance Property",
+  "Description": "",
+  "Declaration": "@property(weak, readonly, nonatomic) CBPeripheral *peripheral;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:32:47.993375+02:00",
+  "LastVersion": 2
+}

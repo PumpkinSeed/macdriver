@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbatterror/cbatterrorattributenotfound?language=objc",
+  "Title": "CBATTErrorAttributeNotFound",
+  "Type": "Enumeration Case",
+  "Description": "",
+  "Declaration": "CBATTErrorAttributeNotFound = 0x0A",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:34:04.094515159+02:00",
+  "LastVersion": 2
+}

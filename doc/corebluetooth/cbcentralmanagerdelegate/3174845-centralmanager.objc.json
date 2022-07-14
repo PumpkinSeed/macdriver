@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbcentralmanagerdelegate/3174845-centralmanager?language=objc",
+  "Title": "centralManager:connectionEventDidOccur:forPeripheral:",
+  "Type": "Instance Method",
+  "Description": "",
+  "Declaration": "- (void)centralManager:(CBCentralManager *)central \nconnectionEventDidOccur:(CBConnectionEvent)event \n         forPeripheral:(CBPeripheral *)peripheral;\n",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:31:43.503101426+02:00",
+  "LastVersion": 2
+}

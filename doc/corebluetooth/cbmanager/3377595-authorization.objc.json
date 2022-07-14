@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbmanager/3377595-authorization?language=objc",
+  "Title": "authorization",
+  "Type": "Type Property",
+  "Description": "",
+  "Declaration": "@property(class, nonatomic, assign, readonly) CBManagerAuthorization authorization;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:33:20.059590306+02:00",
+  "LastVersion": 2
+}

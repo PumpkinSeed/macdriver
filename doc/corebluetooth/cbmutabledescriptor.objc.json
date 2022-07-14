@@ -1,0 +1,18 @@
+{
+  "Path": "/documentation/corebluetooth/cbmutabledescriptor?language=objc",
+  "Title": "CBMutableDescriptor",
+  "Type": "Class",
+  "Description": "",
+  "Declaration": "@interface CBMutableDescriptor : CBDescriptor",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": [
+    {
+      "Section": "Creating a Mutable Descriptor",
+      "Name": "- initWithType:value:",
+      "Path": "/documentation/corebluetooth/cbmutabledescriptor/1518999-initwithtype?language=objc"
+    }
+  ],
+  "LastFetch": "2022-07-14T23:33:13.413029801+02:00",
+  "LastVersion": 2
+}

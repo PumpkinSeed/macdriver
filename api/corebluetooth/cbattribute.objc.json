@@ -1,0 +1,26 @@
+{
+  "Class": {
+    "Name": "CBAttribute",
+    "Declaration": "@interface CBAttribute : NSObject",
+    "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbattribute?language=objc",
+    "InstanceProperties": [
+      {
+        "Name": "UUID",
+        "Description": "",
+        "Declaration": "@property(readonly, nonatomic) CBUUID *UUID;",
+        "Type": {
+          "Name": "CBUUID",
+          "IsPtr": true
+        },
+        "Attrs": {
+          "nonatomic": true,
+          "readonly": true
+        },
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbattribute/1620638-uuid?language=objc"
+      }
+    ]
+  },
+  "Kind": "class",
+  "PullDate": "2022-07-14T23:32:34.635578747+02:00",
+  "Version": 2
+}

@@ -1,0 +1,136 @@
+{
+  "Class": {
+    "Name": "CBMutableCharacteristic",
+    "Declaration": "@interface CBMutableCharacteristic : CBCharacteristic",
+    "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbmutablecharacteristic?language=objc",
+    "InstanceMethods": [
+      {
+        "Name": "initWithType:properties:value:permissions:",
+        "Description": "",
+        "Declaration": "- (instancetype)initWithType:(CBUUID *)UUID \n                  properties:(CBCharacteristicProperties)properties \n                       value:(NSData *)value \n                 permissions:(CBAttributePermissions)permissions;\n",
+        "Return": {
+          "Name": "instancetype"
+        },
+        "Args": [
+          {
+            "Name": "UUID",
+            "Type": {
+              "Name": "CBUUID",
+              "IsPtr": true
+            }
+          },
+          {
+            "Name": "properties",
+            "Type": {
+              "Name": "CBCharacteristicProperties"
+            }
+          },
+          {
+            "Name": "value",
+            "Type": {
+              "Name": "NSData",
+              "IsPtr": true
+            }
+          },
+          {
+            "Name": "permissions",
+            "Type": {
+              "Name": "CBAttributePermissions"
+            }
+          }
+        ],
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbmutablecharacteristic/1519073-initwithtype?language=objc"
+      }
+    ],
+    "InstanceProperties": [
+      {
+        "Name": "value",
+        "Description": "",
+        "Declaration": "@property(retain, readwrite, nullable) NSData *value;",
+        "Type": {
+          "Name": "NSData",
+          "IsPtr": true
+        },
+        "Attrs": {
+          "nullable": true,
+          "readwrite": true,
+          "retain": true
+        },
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbmutablecharacteristic/1519121-value?language=objc"
+      },
+      {
+        "Name": "descriptors",
+        "Description": "",
+        "Declaration": "@property(retain, readwrite, nullable) NSArray\u003cCBDescriptor *\u003e *descriptors;",
+        "Type": {
+          "Name": "NSArray",
+          "IsPtr": true,
+          "Params": [
+            {
+              "Name": "CBDescriptor",
+              "IsPtr": true
+            }
+          ]
+        },
+        "Attrs": {
+          "nullable": true,
+          "readwrite": true,
+          "retain": true
+        },
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbmutablecharacteristic/1518827-descriptors?language=objc"
+      },
+      {
+        "Name": "properties",
+        "Description": "",
+        "Declaration": "@property(assign, readwrite, nonatomic) CBCharacteristicProperties properties;",
+        "Type": {
+          "Name": "CBCharacteristicProperties"
+        },
+        "Attrs": {
+          "assign": true,
+          "nonatomic": true,
+          "readwrite": true
+        },
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbmutablecharacteristic/1519087-properties?language=objc"
+      },
+      {
+        "Name": "permissions",
+        "Description": "",
+        "Declaration": "@property(assign, readwrite, nonatomic) CBAttributePermissions permissions;",
+        "Type": {
+          "Name": "CBAttributePermissions"
+        },
+        "Attrs": {
+          "assign": true,
+          "nonatomic": true,
+          "readwrite": true
+        },
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbmutablecharacteristic/1518891-permissions?language=objc"
+      },
+      {
+        "Name": "subscribedCentrals",
+        "Description": "",
+        "Declaration": "@property(retain, readonly, nullable) NSArray\u003cCBCentral *\u003e *subscribedCentrals;",
+        "Type": {
+          "Name": "NSArray",
+          "IsPtr": true,
+          "Params": [
+            {
+              "Name": "CBCentral",
+              "IsPtr": true
+            }
+          ]
+        },
+        "Attrs": {
+          "nullable": true,
+          "readonly": true,
+          "retain": true
+        },
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbmutablecharacteristic/1518926-subscribedcentrals?language=objc"
+      }
+    ]
+  },
+  "Kind": "class",
+  "PullDate": "2022-07-14T23:33:03.573784029+02:00",
+  "Version": 2
+}

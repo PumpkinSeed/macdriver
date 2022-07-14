@@ -1,0 +1,28 @@
+{
+  "Path": "/documentation/corebluetooth/cbcentralmanager/central_manager_state_restoration_options?language=objc",
+  "Title": "Central Manager State Restoration Options",
+  "Type": "API Collection",
+  "Description": "",
+  "Declaration": "",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": [
+    {
+      "Section": "State Restoration Options",
+      "Name": "CBCentralManagerRestoredStatePeripheralsKey",
+      "Path": "/documentation/corebluetooth/cbcentralmanagerrestoredstateperipheralskey?language=objc"
+    },
+    {
+      "Section": "State Restoration Options",
+      "Name": "CBCentralManagerRestoredStateScanServicesKey",
+      "Path": "/documentation/corebluetooth/cbcentralmanagerrestoredstatescanserviceskey?language=objc"
+    },
+    {
+      "Section": "State Restoration Options",
+      "Name": "CBCentralManagerRestoredStateScanOptionsKey",
+      "Path": "/documentation/corebluetooth/cbcentralmanagerrestoredstatescanoptionskey?language=objc"
+    }
+  ],
+  "LastFetch": "2022-07-14T23:31:31.840994044+02:00",
+  "LastVersion": 2
+}

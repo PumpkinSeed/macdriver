@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbcentralmanager/1519001-initwithdelegate?language=objc",
+  "Title": "initWithDelegate:queue:options:",
+  "Type": "Instance Method",
+  "Description": "",
+  "Declaration": "- (instancetype)initWithDelegate:(id\u003cCBCentralManagerDelegate\u003e)delegate \n                           queue:(dispatch_queue_t)queue \n                         options:(NSDictionary\u003cNSString *,id\u003e *)options;\n",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:31:31.84121626+02:00",
+  "LastVersion": 2
+}

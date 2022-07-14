@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbmutableservice/1434320-includedservices?language=objc",
+  "Title": "includedServices",
+  "Type": "Instance Property",
+  "Description": "",
+  "Declaration": "@property(retain, readwrite, nullable) NSArray\u003cCBService *\u003e *includedServices;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:32:54.005734217+02:00",
+  "LastVersion": 2
+}

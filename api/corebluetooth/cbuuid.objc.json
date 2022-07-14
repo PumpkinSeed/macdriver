@@ -1,0 +1,117 @@
+{
+  "Class": {
+    "Name": "CBUUID",
+    "Declaration": "@interface CBUUID : NSObject",
+    "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbuuid?language=objc",
+    "InstanceProperties": [
+      {
+        "Name": "data",
+        "Description": "",
+        "Declaration": "@property(nonatomic, readonly) NSData *data;",
+        "Type": {
+          "Name": "NSData",
+          "IsPtr": true
+        },
+        "Attrs": {
+          "nonatomic": true,
+          "readonly": true
+        },
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbuuid/1519007-data?language=objc"
+      },
+      {
+        "Name": "UUIDString",
+        "Description": "",
+        "Declaration": "@property(nonatomic, readonly) NSString *UUIDString;",
+        "Type": {
+          "Name": "NSString",
+          "IsPtr": true
+        },
+        "Attrs": {
+          "nonatomic": true,
+          "readonly": true
+        },
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbuuid/1518742-uuidstring?language=objc"
+      }
+    ],
+    "TypeMethods": [
+      {
+        "Name": "UUIDWithString:",
+        "Description": "",
+        "Declaration": "+ (CBUUID *)UUIDWithString:(NSString *)theString;",
+        "Return": {
+          "Name": "CBUUID",
+          "IsPtr": true
+        },
+        "Args": [
+          {
+            "Name": "theString",
+            "Type": {
+              "Name": "NSString",
+              "IsPtr": true
+            }
+          }
+        ],
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbuuid/1519025-uuidwithstring?language=objc"
+      },
+      {
+        "Name": "UUIDWithData:",
+        "Description": "",
+        "Declaration": "+ (CBUUID *)UUIDWithData:(NSData *)theData;",
+        "Return": {
+          "Name": "CBUUID",
+          "IsPtr": true
+        },
+        "Args": [
+          {
+            "Name": "theData",
+            "Type": {
+              "Name": "NSData",
+              "IsPtr": true
+            }
+          }
+        ],
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbuuid/1518799-uuidwithdata?language=objc"
+      },
+      {
+        "Name": "UUIDWithCFUUID:",
+        "Description": "",
+        "Declaration": "+ (CBUUID *)UUIDWithCFUUID:(CFUUIDRef)theUUID;",
+        "Return": {
+          "Name": "CBUUID",
+          "IsPtr": true
+        },
+        "Args": [
+          {
+            "Name": "theUUID",
+            "Type": {
+              "Name": "CFUUIDRef"
+            }
+          }
+        ],
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbuuid/1518861-uuidwithcfuuid?language=objc"
+      },
+      {
+        "Name": "UUIDWithNSUUID:",
+        "Description": "",
+        "Declaration": "+ (CBUUID *)UUIDWithNSUUID:(NSUUID *)theUUID;",
+        "Return": {
+          "Name": "CBUUID",
+          "IsPtr": true
+        },
+        "Args": [
+          {
+            "Name": "theUUID",
+            "Type": {
+              "Name": "NSUUID",
+              "IsPtr": true
+            }
+          }
+        ],
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbuuid/1518783-uuidwithnsuuid?language=objc"
+      }
+    ]
+  },
+  "Kind": "class",
+  "PullDate": "2022-07-14T23:33:34.253438381+02:00",
+  "Version": 2
+}

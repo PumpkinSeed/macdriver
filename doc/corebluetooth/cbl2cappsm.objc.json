@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbl2cappsm?language=objc",
+  "Title": "CBL2CAPPSM",
+  "Type": "Type Alias",
+  "Description": "",
+  "Declaration": "typedef uint16_t CBL2CAPPSM;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:31:58.713424875+02:00",
+  "LastVersion": 2
+}

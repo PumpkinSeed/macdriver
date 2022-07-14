@@ -1,0 +1,25 @@
+{
+  "Class": {
+    "Name": "CBCentral",
+    "Declaration": "@interface CBCentral : CBPeer",
+    "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbcentral?language=objc",
+    "InstanceProperties": [
+      {
+        "Name": "maximumUpdateValueLength",
+        "Description": "",
+        "Declaration": "@property(readonly, nonatomic) NSUInteger maximumUpdateValueLength;",
+        "Type": {
+          "Name": "NSUInteger"
+        },
+        "Attrs": {
+          "nonatomic": true,
+          "readonly": true
+        },
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbcentral/1408800-maximumupdatevaluelength?language=objc"
+      }
+    ]
+  },
+  "Kind": "class",
+  "PullDate": "2022-07-14T23:31:23.19988156+02:00",
+  "Version": 2
+}

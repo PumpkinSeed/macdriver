@@ -1,0 +1,48 @@
+{
+  "Path": "/documentation/corebluetooth/cbuuid?language=objc",
+  "Title": "CBUUID",
+  "Type": "Class",
+  "Description": "",
+  "Declaration": "@interface CBUUID : NSObject",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": [
+    {
+      "Section": "Creating New CBUUID Objects",
+      "Name": "+ UUIDWithString:",
+      "Path": "/documentation/corebluetooth/cbuuid/1519025-uuidwithstring?language=objc"
+    },
+    {
+      "Section": "Creating New CBUUID Objects",
+      "Name": "+ UUIDWithData:",
+      "Path": "/documentation/corebluetooth/cbuuid/1518799-uuidwithdata?language=objc"
+    },
+    {
+      "Section": "Creating New CBUUID Objects",
+      "Name": "+ UUIDWithCFUUID:",
+      "Path": "/documentation/corebluetooth/cbuuid/1518861-uuidwithcfuuid?language=objc"
+    },
+    {
+      "Section": "Creating New CBUUID Objects",
+      "Name": "+ UUIDWithNSUUID:",
+      "Path": "/documentation/corebluetooth/cbuuid/1518783-uuidwithnsuuid?language=objc"
+    },
+    {
+      "Section": "Inspecting CBUUID Properties",
+      "Name": "data",
+      "Path": "/documentation/corebluetooth/cbuuid/1519007-data?language=objc"
+    },
+    {
+      "Section": "Inspecting CBUUID Properties",
+      "Name": "UUIDString",
+      "Path": "/documentation/corebluetooth/cbuuid/1518742-uuidstring?language=objc"
+    },
+    {
+      "Section": "UUID Constants",
+      "Name": "Characteristic Descriptors",
+      "Path": "/documentation/corebluetooth/cbuuid/characteristic_descriptors?language=objc"
+    }
+  ],
+  "LastFetch": "2022-07-14T23:33:34.253438381+02:00",
+  "LastVersion": 2
+}

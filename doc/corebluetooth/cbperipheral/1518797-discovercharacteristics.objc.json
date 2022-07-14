@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbperipheral/1518797-discovercharacteristics?language=objc",
+  "Title": "discoverCharacteristics:forService:",
+  "Type": "Instance Method",
+  "Description": "",
+  "Declaration": "- (void)discoverCharacteristics:(NSArray\u003cCBUUID *\u003e *)characteristicUUIDs \n                     forService:(CBService *)service;\n",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:31:52.056436044+02:00",
+  "LastVersion": 2
+}

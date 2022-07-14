@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbperipheralmanagerdelegate/1393248-peripheralmanagerisreadytoupdate?language=objc",
+  "Title": "peripheralManagerIsReadyToUpdateSubscribers:",
+  "Type": "Instance Method",
+  "Description": "",
+  "Declaration": "- (void)peripheralManagerIsReadyToUpdateSubscribers:(CBPeripheralManager *)peripheral;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:32:27.129865167+02:00",
+  "LastVersion": 2
+}

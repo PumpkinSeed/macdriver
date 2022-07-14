@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cberror/cberrortoomanylepaireddevices?language=objc",
+  "Title": "CBErrorTooManyLEPairedDevices",
+  "Type": "Enumeration Case",
+  "Description": "",
+  "Declaration": "CBErrorTooManyLEPairedDevices = 16",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:33:52.247491632+02:00",
+  "LastVersion": 2
+}

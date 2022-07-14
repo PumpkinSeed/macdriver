@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbuuid/1519025-uuidwithstring?language=objc",
+  "Title": "UUIDWithString:",
+  "Type": "Type Method",
+  "Description": "",
+  "Declaration": "+ (CBUUID *)UUIDWithString:(NSString *)theString;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:33:36.116518179+02:00",
+  "LastVersion": 2
+}

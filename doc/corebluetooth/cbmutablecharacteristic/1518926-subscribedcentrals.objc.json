@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbmutablecharacteristic/1518926-subscribedcentrals?language=objc",
+  "Title": "subscribedCentrals",
+  "Type": "Instance Property",
+  "Description": "",
+  "Declaration": "@property(retain, readonly, nullable) NSArray\u003cCBCentral *\u003e *subscribedCentrals;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:33:05.216376123+02:00",
+  "LastVersion": 2
+}

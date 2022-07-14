@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbmutablecharacteristic/1519121-value?language=objc",
+  "Title": "value",
+  "Type": "Instance Property",
+  "Description": "",
+  "Declaration": "@property(retain, readwrite, nullable) NSData *value;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:33:05.216444361+02:00",
+  "LastVersion": 2
+}

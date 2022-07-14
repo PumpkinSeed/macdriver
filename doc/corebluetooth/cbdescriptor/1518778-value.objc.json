@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbdescriptor/1518778-value?language=objc",
+  "Title": "value",
+  "Type": "Instance Property",
+  "Description": "",
+  "Declaration": "@property(retain, readonly, nullable) id value;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:33:10.339449918+02:00",
+  "LastVersion": 2
+}

@@ -1,0 +1,128 @@
+{
+  "Path": "/documentation/corebluetooth/cbperipheral?language=objc",
+  "Title": "CBPeripheral",
+  "Type": "Class",
+  "Description": "",
+  "Declaration": "@interface CBPeripheral : CBPeer",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": [
+    {
+      "Section": "Identifying a Peripheral",
+      "Name": "name",
+      "Path": "/documentation/corebluetooth/cbperipheral/1519029-name?language=objc"
+    },
+    {
+      "Section": "Identifying a Peripheral",
+      "Name": "delegate",
+      "Path": "/documentation/corebluetooth/cbperipheral/1518730-delegate?language=objc"
+    },
+    {
+      "Section": "Discovering Services",
+      "Name": "- discoverServices:",
+      "Path": "/documentation/corebluetooth/cbperipheral/1518706-discoverservices?language=objc"
+    },
+    {
+      "Section": "Discovering Services",
+      "Name": "- discoverIncludedServices:forService:",
+      "Path": "/documentation/corebluetooth/cbperipheral/1519014-discoverincludedservices?language=objc"
+    },
+    {
+      "Section": "Discovering Services",
+      "Name": "services",
+      "Path": "/documentation/corebluetooth/cbperipheral/1518978-services?language=objc"
+    },
+    {
+      "Section": "Discovering Characteristics and Descriptors",
+      "Name": "- discoverCharacteristics:forService:",
+      "Path": "/documentation/corebluetooth/cbperipheral/1518797-discovercharacteristics?language=objc"
+    },
+    {
+      "Section": "Discovering Characteristics and Descriptors",
+      "Name": "- discoverDescriptorsForCharacteristic:",
+      "Path": "/documentation/corebluetooth/cbperipheral/1519070-discoverdescriptorsforcharacteri?language=objc"
+    },
+    {
+      "Section": "Reading Characteristic and Descriptor Values",
+      "Name": "- readValueForCharacteristic:",
+      "Path": "/documentation/corebluetooth/cbperipheral/1518759-readvalueforcharacteristic?language=objc"
+    },
+    {
+      "Section": "Reading Characteristic and Descriptor Values",
+      "Name": "- readValueForDescriptor:",
+      "Path": "/documentation/corebluetooth/cbperipheral/1518789-readvaluefordescriptor?language=objc"
+    },
+    {
+      "Section": "Writing Characteristic and Descriptor Values",
+      "Name": "- writeValue:forCharacteristic:type:",
+      "Path": "/documentation/corebluetooth/cbperipheral/1518747-writevalue?language=objc"
+    },
+    {
+      "Section": "Writing Characteristic and Descriptor Values",
+      "Name": "- writeValue:forDescriptor:",
+      "Path": "/documentation/corebluetooth/cbperipheral/1519107-writevalue?language=objc"
+    },
+    {
+      "Section": "Writing Characteristic and Descriptor Values",
+      "Name": "- maximumWriteValueLengthForType:",
+      "Path": "/documentation/corebluetooth/cbperipheral/1620312-maximumwritevaluelengthfortype?language=objc"
+    },
+    {
+      "Section": "Writing Characteristic and Descriptor Values",
+      "Name": "CBCharacteristicWriteType",
+      "Path": "/documentation/corebluetooth/cbcharacteristicwritetype?language=objc"
+    },
+    {
+      "Section": "Setting Notifications for a Characteristic’s Value",
+      "Name": "- setNotifyValue:forCharacteristic:",
+      "Path": "/documentation/corebluetooth/cbperipheral/1518949-setnotifyvalue?language=objc"
+    },
+    {
+      "Section": "Monitoring a Peripheral’s Connection State",
+      "Name": "state",
+      "Path": "/documentation/corebluetooth/cbperipheral/1519113-state?language=objc"
+    },
+    {
+      "Section": "Monitoring a Peripheral’s Connection State",
+      "Name": "CBPeripheralState",
+      "Path": "/documentation/corebluetooth/cbperipheralstate?language=objc"
+    },
+    {
+      "Section": "Monitoring a Peripheral’s Connection State",
+      "Name": "canSendWriteWithoutResponse",
+      "Path": "/documentation/corebluetooth/cbperipheral/2891512-cansendwritewithoutresponse?language=objc"
+    },
+    {
+      "Section": "Accessing a Peripheral’s Signal Strength",
+      "Name": "- readRSSI",
+      "Path": "/documentation/corebluetooth/cbperipheral/1519111-readrssi?language=objc"
+    },
+    {
+      "Section": "Accessing a Peripheral’s Signal Strength",
+      "Name": "RSSI",
+      "Path": "/documentation/corebluetooth/cbperipheral/1518869-rssi?language=objc"
+    },
+    {
+      "Section": "Working with L2CAP Channels",
+      "Name": "- openL2CAPChannel:",
+      "Path": "/documentation/corebluetooth/cbperipheral/2880151-openl2capchannel?language=objc"
+    },
+    {
+      "Section": "Working with L2CAP Channels",
+      "Name": "CBL2CAPChannel",
+      "Path": "/documentation/corebluetooth/cbl2capchannel?language=objc"
+    },
+    {
+      "Section": "Working with L2CAP Channels",
+      "Name": "CBL2CAPPSM",
+      "Path": "/documentation/corebluetooth/cbl2cappsm?language=objc"
+    },
+    {
+      "Section": "Working with Apple Notification Center Service (ANCS)",
+      "Name": "ancsAuthorized",
+      "Path": "/documentation/corebluetooth/cbperipheral/3180040-ancsauthorized?language=objc"
+    }
+  ],
+  "LastFetch": "2022-07-14T23:31:49.294842213+02:00",
+  "LastVersion": 2
+}

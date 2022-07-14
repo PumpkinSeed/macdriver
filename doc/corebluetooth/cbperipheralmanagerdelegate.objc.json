@@ -1,0 +1,78 @@
+{
+  "Path": "/documentation/corebluetooth/cbperipheralmanagerdelegate?language=objc",
+  "Title": "CBPeripheralManagerDelegate",
+  "Type": "Protocol",
+  "Description": "",
+  "Declaration": "@protocol CBPeripheralManagerDelegate",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": [
+    {
+      "Section": "Monitoring Changes to the Peripheral Manager’s State",
+      "Name": "- peripheralManagerDidUpdateState:",
+      "Path": "/documentation/corebluetooth/cbperipheralmanagerdelegate/1393271-peripheralmanagerdidupdatestate?language=objc"
+    },
+    {
+      "Section": "Monitoring Changes to the Peripheral Manager’s State",
+      "Name": "- peripheralManager:willRestoreState:",
+      "Path": "/documentation/corebluetooth/cbperipheralmanagerdelegate/1393317-peripheralmanager?language=objc"
+    },
+    {
+      "Section": "Monitoring Changes to the Peripheral Manager’s State",
+      "Name": "Peripheral Manager State Restoration Options",
+      "Path": "/documentation/corebluetooth/cbperipheralmanagerdelegate/peripheral_manager_state_restoration_options?language=objc"
+    },
+    {
+      "Section": "Adding Services",
+      "Name": "- peripheralManager:didAddService:error:",
+      "Path": "/documentation/corebluetooth/cbperipheralmanagerdelegate/1393279-peripheralmanager?language=objc"
+    },
+    {
+      "Section": "Advertising Peripheral Data",
+      "Name": "- peripheralManagerDidStartAdvertising:error:",
+      "Path": "/documentation/corebluetooth/cbperipheralmanagerdelegate/1393321-peripheralmanagerdidstartadverti?language=objc"
+    },
+    {
+      "Section": "Monitoring Subscriptions to Characteristic Values",
+      "Name": "- peripheralManager:central:didSubscribeToCharacteristic:",
+      "Path": "/documentation/corebluetooth/cbperipheralmanagerdelegate/1393261-peripheralmanager?language=objc"
+    },
+    {
+      "Section": "Monitoring Subscriptions to Characteristic Values",
+      "Name": "- peripheralManager:central:didUnsubscribeFromCharacteristic:",
+      "Path": "/documentation/corebluetooth/cbperipheralmanagerdelegate/1393289-peripheralmanager?language=objc"
+    },
+    {
+      "Section": "Monitoring Subscriptions to Characteristic Values",
+      "Name": "- peripheralManagerIsReadyToUpdateSubscribers:",
+      "Path": "/documentation/corebluetooth/cbperipheralmanagerdelegate/1393248-peripheralmanagerisreadytoupdate?language=objc"
+    },
+    {
+      "Section": "Receiving Read and Write Requests",
+      "Name": "- peripheralManager:didReceiveReadRequest:",
+      "Path": "/documentation/corebluetooth/cbperipheralmanagerdelegate/1393257-peripheralmanager?language=objc"
+    },
+    {
+      "Section": "Receiving Read and Write Requests",
+      "Name": "- peripheralManager:didReceiveWriteRequests:",
+      "Path": "/documentation/corebluetooth/cbperipheralmanagerdelegate/1393315-peripheralmanager?language=objc"
+    },
+    {
+      "Section": "Using L2CAP Channels",
+      "Name": "- peripheralManager:didPublishL2CAPChannel:error:",
+      "Path": "/documentation/corebluetooth/cbperipheralmanagerdelegate/2880153-peripheralmanager?language=objc"
+    },
+    {
+      "Section": "Using L2CAP Channels",
+      "Name": "- peripheralManager:didUnpublishL2CAPChannel:error:",
+      "Path": "/documentation/corebluetooth/cbperipheralmanagerdelegate/2880155-peripheralmanager?language=objc"
+    },
+    {
+      "Section": "Using L2CAP Channels",
+      "Name": "- peripheralManager:didOpenL2CAPChannel:error:",
+      "Path": "/documentation/corebluetooth/cbperipheralmanagerdelegate/2880154-peripheralmanager?language=objc"
+    }
+  ],
+  "LastFetch": "2022-07-14T23:32:24.823022427+02:00",
+  "LastVersion": 2
+}

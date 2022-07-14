@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbcentralmanager/3240586-supportsfeatures?language=objc",
+  "Title": "supportsFeatures:",
+  "Type": "Type Method",
+  "Description": "",
+  "Declaration": "+ (BOOL)supportsFeatures:(CBCentralManagerFeature)features;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:31:35.669061919+02:00",
+  "LastVersion": 2
+}

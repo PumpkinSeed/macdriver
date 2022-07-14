@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbperipheral/3180040-ancsauthorized?language=objc",
+  "Title": "ancsAuthorized",
+  "Type": "Instance Property",
+  "Description": "",
+  "Declaration": "@property(readonly) BOOL ancsAuthorized;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:31:59.043832145+02:00",
+  "LastVersion": 2
+}

@@ -1,0 +1,28 @@
+{
+  "Path": "/documentation/corebluetooth/cbperipheralmanagerconnectionlatency?language=objc",
+  "Title": "CBPeripheralManagerConnectionLatency",
+  "Type": "Enumeration",
+  "Description": "",
+  "Declaration": "typedef enum CBPeripheralManagerConnectionLatency : NSInteger {\n    ...\n} CBPeripheralManagerConnectionLatency;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": [
+    {
+      "Section": "Latency Values",
+      "Name": "CBPeripheralManagerConnectionLatencyLow",
+      "Path": "/documentation/corebluetooth/cbperipheralmanagerconnectionlatency/cbperipheralmanagerconnectionlatencylow?language=objc"
+    },
+    {
+      "Section": "Latency Values",
+      "Name": "CBPeripheralManagerConnectionLatencyMedium",
+      "Path": "/documentation/corebluetooth/cbperipheralmanagerconnectionlatency/cbperipheralmanagerconnectionlatencymedium?language=objc"
+    },
+    {
+      "Section": "Latency Values",
+      "Name": "CBPeripheralManagerConnectionLatencyHigh",
+      "Path": "/documentation/corebluetooth/cbperipheralmanagerconnectionlatency/cbperipheralmanagerconnectionlatencyhigh?language=objc"
+    }
+  ],
+  "LastFetch": "2022-07-14T23:32:21.689029072+02:00",
+  "LastVersion": 2
+}

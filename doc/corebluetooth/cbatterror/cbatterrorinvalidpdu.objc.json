@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbatterror/cbatterrorinvalidpdu?language=objc",
+  "Title": "CBATTErrorInvalidPdu",
+  "Type": "Enumeration Case",
+  "Description": "",
+  "Declaration": "CBATTErrorInvalidPdu = 0x04",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:34:00.642720483+02:00",
+  "LastVersion": 2
+}

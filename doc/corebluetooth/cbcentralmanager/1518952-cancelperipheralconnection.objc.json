@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbcentralmanager/1518952-cancelperipheralconnection?language=objc",
+  "Title": "cancelPeripheralConnection:",
+  "Type": "Instance Method",
+  "Description": "",
+  "Declaration": "- (void)cancelPeripheralConnection:(CBPeripheral *)peripheral;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:31:31.840450214+02:00",
+  "LastVersion": 2
+}

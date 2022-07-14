@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbcharacteristic/1519010-properties?language=objc",
+  "Title": "properties",
+  "Type": "Instance Property",
+  "Description": "",
+  "Declaration": "@property(readonly, nonatomic) CBCharacteristicProperties properties;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:32:59.789308196+02:00",
+  "LastVersion": 2
+}

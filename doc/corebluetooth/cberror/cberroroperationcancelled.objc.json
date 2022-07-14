@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cberror/cberroroperationcancelled?language=objc",
+  "Title": "CBErrorOperationCancelled",
+  "Type": "Enumeration Case",
+  "Description": "",
+  "Declaration": "CBErrorOperationCancelled = 5",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:33:45.402540792+02:00",
+  "LastVersion": 2
+}

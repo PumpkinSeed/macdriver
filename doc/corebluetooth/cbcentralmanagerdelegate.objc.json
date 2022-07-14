@@ -1,0 +1,58 @@
+{
+  "Path": "/documentation/corebluetooth/cbcentralmanagerdelegate?language=objc",
+  "Title": "CBCentralManagerDelegate",
+  "Type": "Protocol",
+  "Description": "",
+  "Declaration": "@protocol CBCentralManagerDelegate",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": [
+    {
+      "Section": "Monitoring Connections with Peripherals",
+      "Name": "- centralManager:didConnectPeripheral:",
+      "Path": "/documentation/corebluetooth/cbcentralmanagerdelegate/1518969-centralmanager?language=objc"
+    },
+    {
+      "Section": "Monitoring Connections with Peripherals",
+      "Name": "- centralManager:didDisconnectPeripheral:error:",
+      "Path": "/documentation/corebluetooth/cbcentralmanagerdelegate/1518791-centralmanager?language=objc"
+    },
+    {
+      "Section": "Monitoring Connections with Peripherals",
+      "Name": "- centralManager:didFailToConnectPeripheral:error:",
+      "Path": "/documentation/corebluetooth/cbcentralmanagerdelegate/1518988-centralmanager?language=objc"
+    },
+    {
+      "Section": "Monitoring Connections with Peripherals",
+      "Name": "- centralManager:connectionEventDidOccur:forPeripheral:",
+      "Path": "/documentation/corebluetooth/cbcentralmanagerdelegate/3174845-centralmanager?language=objc"
+    },
+    {
+      "Section": "Discovering and Retrieving Peripherals",
+      "Name": "- centralManager:didDiscoverPeripheral:advertisementData:RSSI:",
+      "Path": "/documentation/corebluetooth/cbcentralmanagerdelegate/1518937-centralmanager?language=objc"
+    },
+    {
+      "Section": "Discovering and Retrieving Peripherals",
+      "Name": "Advertisement Data Retrieval Keys",
+      "Path": "/documentation/corebluetooth/cbcentralmanagerdelegate/advertisement_data_retrieval_keys?language=objc"
+    },
+    {
+      "Section": "Monitoring the Central Manager’s State",
+      "Name": "- centralManagerDidUpdateState:",
+      "Path": "/documentation/corebluetooth/cbcentralmanagerdelegate/1518888-centralmanagerdidupdatestate?language=objc"
+    },
+    {
+      "Section": "Monitoring the Central Manager’s State",
+      "Name": "- centralManager:willRestoreState:",
+      "Path": "/documentation/corebluetooth/cbcentralmanagerdelegate/1518819-centralmanager?language=objc"
+    },
+    {
+      "Section": "Monitoring the Central Manager’s Authorization",
+      "Name": "- centralManager:didUpdateANCSAuthorizationForPeripheral:",
+      "Path": "/documentation/corebluetooth/cbcentralmanagerdelegate/3180030-centralmanager?language=objc"
+    }
+  ],
+  "LastFetch": "2022-07-14T23:31:41.439704125+02:00",
+  "LastVersion": 2
+}

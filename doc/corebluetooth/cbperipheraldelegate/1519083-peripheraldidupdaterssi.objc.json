@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbperipheraldelegate/1519083-peripheraldidupdaterssi?language=objc",
+  "Title": "peripheralDidUpdateRSSI:error:",
+  "Type": "Instance Method",
+  "Description": "",
+  "Declaration": "- (void)peripheralDidUpdateRSSI:(CBPeripheral *)peripheral \n                          error:(NSError *)error;\n",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:32:09.143735244+02:00",
+  "LastVersion": 2
+}

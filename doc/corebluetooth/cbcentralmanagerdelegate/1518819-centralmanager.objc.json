@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbcentralmanagerdelegate/1518819-centralmanager?language=objc",
+  "Title": "centralManager:willRestoreState:",
+  "Type": "Instance Method",
+  "Description": "",
+  "Declaration": "- (void)centralManager:(CBCentralManager *)central \n      willRestoreState:(NSDictionary\u003cNSString *,id\u003e *)dict;\n",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:31:43.503081767+02:00",
+  "LastVersion": 2
+}

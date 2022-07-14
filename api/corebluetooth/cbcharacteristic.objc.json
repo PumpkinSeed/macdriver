@@ -1,0 +1,100 @@
+{
+  "Class": {
+    "Name": "CBCharacteristic",
+    "Declaration": "@interface CBCharacteristic : CBAttribute",
+    "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbcharacteristic?language=objc",
+    "InstanceProperties": [
+      {
+        "Name": "service",
+        "Description": "",
+        "Declaration": "@property(weak, readonly, nonatomic) CBService *service;",
+        "Type": {
+          "Name": "CBService",
+          "IsPtr": true
+        },
+        "Attrs": {
+          "nonatomic": true,
+          "readonly": true,
+          "weak": true
+        },
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbcharacteristic/1518728-service?language=objc"
+      },
+      {
+        "Name": "value",
+        "Description": "",
+        "Declaration": "@property(retain, readonly, nullable) NSData *value;",
+        "Type": {
+          "Name": "NSData",
+          "IsPtr": true
+        },
+        "Attrs": {
+          "nullable": true,
+          "readonly": true,
+          "retain": true
+        },
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbcharacteristic/1518878-value?language=objc"
+      },
+      {
+        "Name": "descriptors",
+        "Description": "",
+        "Declaration": "@property(retain, readonly, nullable) NSArray\u003cCBDescriptor *\u003e *descriptors;",
+        "Type": {
+          "Name": "NSArray",
+          "IsPtr": true,
+          "Params": [
+            {
+              "Name": "CBDescriptor",
+              "IsPtr": true
+            }
+          ]
+        },
+        "Attrs": {
+          "nullable": true,
+          "readonly": true,
+          "retain": true
+        },
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbcharacteristic/1518957-descriptors?language=objc"
+      },
+      {
+        "Name": "properties",
+        "Description": "",
+        "Declaration": "@property(readonly, nonatomic) CBCharacteristicProperties properties;",
+        "Type": {
+          "Name": "CBCharacteristicProperties"
+        },
+        "Attrs": {
+          "nonatomic": true,
+          "readonly": true
+        },
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbcharacteristic/1519010-properties?language=objc"
+      },
+      {
+        "Name": "isNotifying",
+        "Description": "",
+        "Declaration": "@property(readonly) BOOL isNotifying;",
+        "Type": {
+          "Name": "BOOL"
+        },
+        "Attrs": {
+          "readonly": true
+        },
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbcharacteristic/1519057-isnotifying?language=objc"
+      },
+      {
+        "Name": "isBroadcasted",
+        "Description": "",
+        "Declaration": "@property(readonly) BOOL isBroadcasted;",
+        "Type": {
+          "Name": "BOOL"
+        },
+        "Attrs": {
+          "readonly": true
+        },
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbcharacteristic/1518920-isbroadcasted?language=objc"
+      }
+    ]
+  },
+  "Kind": "class",
+  "PullDate": "2022-07-14T23:32:57.506625383+02:00",
+  "Version": 2
+}

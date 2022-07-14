@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbatterror/cbatterrorinsufficientencryption?language=objc",
+  "Title": "CBATTErrorInsufficientEncryption",
+  "Type": "Enumeration Case",
+  "Description": "",
+  "Declaration": "CBATTErrorInsufficientEncryption = 0x0F",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:34:04.48187646+02:00",
+  "LastVersion": 2
+}

@@ -1,0 +1,57 @@
+{
+  "Class": {
+    "Name": "CBManager",
+    "Declaration": "@interface CBManager : NSObject",
+    "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbmanager?language=objc",
+    "InstanceProperties": [
+      {
+        "Name": "state",
+        "Description": "",
+        "Declaration": "@property(nonatomic, assign, readonly) CBManagerState state;",
+        "Type": {
+          "Name": "CBManagerState"
+        },
+        "Attrs": {
+          "assign": true,
+          "nonatomic": true,
+          "readonly": true
+        },
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbmanager/1648600-state?language=objc"
+      },
+      {
+        "Name": "authorization",
+        "Description": "",
+        "Declaration": "@property(nonatomic, assign, readonly) CBManagerAuthorization authorization;",
+        "Type": {
+          "Name": "CBManagerAuthorization"
+        },
+        "Attrs": {
+          "assign": true,
+          "nonatomic": true,
+          "readonly": true
+        },
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbmanager/3180033-authorization?language=objc"
+      }
+    ],
+    "TypeProperties": [
+      {
+        "Name": "authorization",
+        "Description": "",
+        "Declaration": "@property(class, nonatomic, assign, readonly) CBManagerAuthorization authorization;",
+        "Type": {
+          "Name": "CBManagerAuthorization"
+        },
+        "Attrs": {
+          "assign": true,
+          "class": true,
+          "nonatomic": true,
+          "readonly": true
+        },
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbmanager/3377595-authorization?language=objc"
+      }
+    ]
+  },
+  "Kind": "class",
+  "PullDate": "2022-07-14T23:33:18.043448856+02:00",
+  "Version": 2
+}

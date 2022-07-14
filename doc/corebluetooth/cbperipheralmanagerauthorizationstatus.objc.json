@@ -1,0 +1,33 @@
+{
+  "Path": "/documentation/corebluetooth/cbperipheralmanagerauthorizationstatus?language=objc",
+  "Title": "CBPeripheralManagerAuthorizationStatus",
+  "Type": "Enumeration",
+  "Description": "",
+  "Declaration": "typedef enum CBPeripheralManagerAuthorizationStatus : NSInteger {\n    ...\n} CBPeripheralManagerAuthorizationStatus;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": [
+    {
+      "Section": "Constants",
+      "Name": "CBPeripheralManagerAuthorizationStatusNotDetermined",
+      "Path": "/documentation/corebluetooth/cbperipheralmanagerauthorizationstatus/cbperipheralmanagerauthorizationstatusnotdetermined?language=objc"
+    },
+    {
+      "Section": "Constants",
+      "Name": "CBPeripheralManagerAuthorizationStatusRestricted",
+      "Path": "/documentation/corebluetooth/cbperipheralmanagerauthorizationstatus/cbperipheralmanagerauthorizationstatusrestricted?language=objc"
+    },
+    {
+      "Section": "Constants",
+      "Name": "CBPeripheralManagerAuthorizationStatusDenied",
+      "Path": "/documentation/corebluetooth/cbperipheralmanagerauthorizationstatus/cbperipheralmanagerauthorizationstatusdenied?language=objc"
+    },
+    {
+      "Section": "Constants",
+      "Name": "CBPeripheralManagerAuthorizationStatusAuthorized",
+      "Path": "/documentation/corebluetooth/cbperipheralmanagerauthorizationstatus/cbperipheralmanagerauthorizationstatusauthorized?language=objc"
+    }
+  ],
+  "LastFetch": "2022-07-14T23:32:15.760138202+02:00",
+  "LastVersion": 2
+}

@@ -128,6 +128,31 @@ func main() {
 				return nil
 			}),
 		}},
+		{"corebluetooth", []schemaLoader{
+			//loadFile("api/corebluetooth/cbatterrordomain.objc.json"),
+			//loadFile("api/corebluetooth/cbatterror.objc.json"),
+			loadFile("api/corebluetooth/cbattrequest.objc.json"),
+			loadFile("api/corebluetooth/cbattribute.objc.json"),
+			//loadFile("api/corebluetooth/cbattributepermissions.objc.json"),
+			//loadFile("api/corebluetooth/cbcentralmanagerdelegate.objc.json"),
+			loadFile("api/corebluetooth/cbcentralmanager.objc.json"),
+			loadFile("api/corebluetooth/cbcentral.objc.json"),
+			loadFile("api/corebluetooth/cbcharacteristic.objc.json"),
+			loadFile("api/corebluetooth/cbdescriptor.objc.json"),
+			//loadFile("api/corebluetooth/cberrordomain.objc.json"),
+			//loadFile("api/corebluetooth/cberror.objc.json"),
+			loadFile("api/corebluetooth/cbmanager.objc.json"),
+			loadFile("api/corebluetooth/cbmutablecharacteristic.objc.json"),
+			loadFile("api/corebluetooth/cbmutabledescriptor.objc.json"),
+			loadFile("api/corebluetooth/cbmutableservice.objc.json"),
+			loadFile("api/corebluetooth/cbpeer.objc.json"),
+			//loadFile("api/corebluetooth/cbperipheraldelegate.objc.json"),
+			//loadFile("api/corebluetooth/cbperipheralmanagerdelegate.objc.json"),
+			loadFile("api/corebluetooth/cbperipheralmanager.objc.json"),
+			loadFile("api/corebluetooth/cbperipheral.objc.json"),
+			loadFile("api/corebluetooth/cbservice.objc.json"),
+			loadFile("api/corebluetooth/cbuuid.objc.json"),
+		}},
 	})
 	if err != nil {
 		fmt.Fprintln(os.Stderr, err)

@@ -1,0 +1,36 @@
+{
+  "Class": {
+    "Name": "CBMutableDescriptor",
+    "Declaration": "@interface CBMutableDescriptor : CBDescriptor",
+    "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbmutabledescriptor?language=objc",
+    "InstanceMethods": [
+      {
+        "Name": "initWithType:value:",
+        "Description": "",
+        "Declaration": "- (instancetype)initWithType:(CBUUID *)UUID \n                       value:(id)value;\n",
+        "Return": {
+          "Name": "instancetype"
+        },
+        "Args": [
+          {
+            "Name": "UUID",
+            "Type": {
+              "Name": "CBUUID",
+              "IsPtr": true
+            }
+          },
+          {
+            "Name": "value",
+            "Type": {
+              "Name": "id"
+            }
+          }
+        ],
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbmutabledescriptor/1518999-initwithtype?language=objc"
+      }
+    ]
+  },
+  "Kind": "class",
+  "PullDate": "2022-07-14T23:33:13.413029801+02:00",
+  "Version": 2
+}

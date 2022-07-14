@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbperipheral/1518978-services?language=objc",
+  "Title": "services",
+  "Type": "Instance Property",
+  "Description": "",
+  "Declaration": "@property(retain, readonly, nullable) NSArray\u003cCBService *\u003e *services;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:31:52.056460004+02:00",
+  "LastVersion": 2
+}

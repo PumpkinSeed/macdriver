@@ -1,0 +1,18 @@
+{
+  "Path": "/documentation/corebluetooth/cbcentralmanagerfeature?language=objc",
+  "Title": "CBCentralManagerFeature",
+  "Type": "Enumeration",
+  "Description": "",
+  "Declaration": "typedef enum CBCentralManagerFeature : NSUInteger {\n    ...\n} CBCentralManagerFeature;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": [
+    {
+      "Section": "Extended Scan Features",
+      "Name": "CBCentralManagerFeatureExtendedScanAndConnect",
+      "Path": "/documentation/corebluetooth/cbcentralmanagerfeature/cbcentralmanagerfeatureextendedscanandconnect?language=objc"
+    }
+  ],
+  "LastFetch": "2022-07-14T23:31:35.962834649+02:00",
+  "LastVersion": 2
+}

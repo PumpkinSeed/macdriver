@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbcharacteristic/1518920-isbroadcasted?language=objc",
+  "Title": "isBroadcasted",
+  "Type": "Instance Property",
+  "Description": "",
+  "Declaration": "@property(readonly) BOOL isBroadcasted;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:32:59.789379592+02:00",
+  "LastVersion": 2
+}

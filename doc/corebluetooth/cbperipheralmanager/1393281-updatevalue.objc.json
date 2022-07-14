@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbperipheralmanager/1393281-updatevalue?language=objc",
+  "Title": "updateValue:forCharacteristic:onSubscribedCentrals:",
+  "Type": "Instance Method",
+  "Description": "",
+  "Declaration": "- (BOOL)updateValue:(NSData *)value \n  forCharacteristic:(CBMutableCharacteristic *)characteristic \nonSubscribedCentrals:(NSArray\u003cCBCentral *\u003e *)centrals;\n",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:32:19.355563029+02:00",
+  "LastVersion": 2
+}

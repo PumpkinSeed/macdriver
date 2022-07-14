@@ -1,0 +1,43 @@
+{
+  "Path": "/documentation/corebluetooth/cbcentralmanager/peripheral_connection_options?language=objc",
+  "Title": "Peripheral Connection Options",
+  "Type": "API Collection",
+  "Description": "",
+  "Declaration": "",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": [
+    {
+      "Section": "Options",
+      "Name": "CBConnectPeripheralOptionNotifyOnConnectionKey",
+      "Path": "/documentation/corebluetooth/cbconnectperipheraloptionnotifyonconnectionkey?language=objc"
+    },
+    {
+      "Section": "Options",
+      "Name": "CBConnectPeripheralOptionNotifyOnDisconnectionKey",
+      "Path": "/documentation/corebluetooth/cbconnectperipheraloptionnotifyondisconnectionkey?language=objc"
+    },
+    {
+      "Section": "Options",
+      "Name": "CBConnectPeripheralOptionNotifyOnNotificationKey",
+      "Path": "/documentation/corebluetooth/cbconnectperipheraloptionnotifyonnotificationkey?language=objc"
+    },
+    {
+      "Section": "Options",
+      "Name": "CBConnectPeripheralOptionEnableTransportBridgingKey",
+      "Path": "/documentation/corebluetooth/cbconnectperipheraloptionenabletransportbridgingkey?language=objc"
+    },
+    {
+      "Section": "Options",
+      "Name": "CBConnectPeripheralOptionRequiresANCS",
+      "Path": "/documentation/corebluetooth/cbconnectperipheraloptionrequiresancs?language=objc"
+    },
+    {
+      "Section": "Options",
+      "Name": "CBConnectPeripheralOptionStartDelayKey",
+      "Path": "/documentation/corebluetooth/cbconnectperipheraloptionstartdelaykey?language=objc"
+    }
+  ],
+  "LastFetch": "2022-07-14T23:31:31.840949273+02:00",
+  "LastVersion": 2
+}

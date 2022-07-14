@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbperipheraldelegate/1518768-peripheral?language=objc",
+  "Title": "peripheral:didUpdateNotificationStateForCharacteristic:error:",
+  "Type": "Instance Method",
+  "Description": "",
+  "Declaration": "- (void)peripheral:(CBPeripheral *)peripheral \ndidUpdateNotificationStateForCharacteristic:(CBCharacteristic *)characteristic \n             error:(NSError *)error;\n",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:32:08.96145374+02:00",
+  "LastVersion": 2
+}

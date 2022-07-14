@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbmutablecharacteristic/1519073-initwithtype?language=objc",
+  "Title": "initWithType:properties:value:permissions:",
+  "Type": "Instance Method",
+  "Description": "",
+  "Declaration": "- (instancetype)initWithType:(CBUUID *)UUID \n                  properties:(CBCharacteristicProperties)properties \n                       value:(NSData *)value \n                 permissions:(CBAttributePermissions)permissions;\n",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:33:05.216429515+02:00",
+  "LastVersion": 2
+}

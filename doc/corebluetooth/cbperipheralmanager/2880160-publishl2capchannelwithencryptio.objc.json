@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbperipheralmanager/2880160-publishl2capchannelwithencryptio?language=objc",
+  "Title": "publishL2CAPChannelWithEncryption:",
+  "Type": "Instance Method",
+  "Description": "",
+  "Declaration": "- (void)publishL2CAPChannelWithEncryption:(BOOL)encryptionRequired;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:32:21.770645485+02:00",
+  "LastVersion": 2
+}

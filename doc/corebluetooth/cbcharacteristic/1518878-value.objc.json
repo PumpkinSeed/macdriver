@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbcharacteristic/1518878-value?language=objc",
+  "Title": "value",
+  "Type": "Instance Property",
+  "Description": "",
+  "Declaration": "@property(retain, readonly, nullable) NSData *value;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:32:59.789410349+02:00",
+  "LastVersion": 2
+}

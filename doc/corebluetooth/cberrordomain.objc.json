@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cberrordomain?language=objc",
+  "Title": "CBErrorDomain",
+  "Type": "Global Variable",
+  "Description": "",
+  "Declaration": "NSString *const CBErrorDomain;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:33:39.811727307+02:00",
+  "LastVersion": 2
+}

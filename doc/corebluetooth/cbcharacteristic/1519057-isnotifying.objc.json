@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbcharacteristic/1519057-isnotifying?language=objc",
+  "Title": "isNotifying",
+  "Type": "Instance Property",
+  "Description": "",
+  "Declaration": "@property(readonly) BOOL isNotifying;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:32:59.789479695+02:00",
+  "LastVersion": 2
+}

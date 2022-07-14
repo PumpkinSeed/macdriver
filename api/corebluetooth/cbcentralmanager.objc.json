@@ -1,0 +1,338 @@
+{
+  "Class": {
+    "Name": "CBCentralManager",
+    "Declaration": "@interface CBCentralManager : CBManager",
+    "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbcentralmanager?language=objc",
+    "InstanceMethods": [
+      {
+        "Name": "init",
+        "Description": "",
+        "Declaration": "- (instancetype)init;",
+        "Return": {
+          "Name": "instancetype"
+        },
+        "Args": null,
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbcentralmanager/1648596-init?language=objc"
+      },
+      {
+        "Name": "initWithDelegate:queue:",
+        "Description": "",
+        "Declaration": "- (instancetype)initWithDelegate:(id\u003cCBCentralManagerDelegate\u003e)delegate \n                           queue:(dispatch_queue_t)queue;\n",
+        "Return": {
+          "Name": "instancetype"
+        },
+        "Args": [
+          {
+            "Name": "delegate",
+            "Type": {
+              "Name": "id",
+              "Params": [
+                {
+                  "Name": "CBCentralManagerDelegate"
+                }
+              ]
+            }
+          },
+          {
+            "Name": "queue",
+            "Type": {
+              "Name": "dispatch_queue_t"
+            }
+          }
+        ],
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbcentralmanager/1518695-initwithdelegate?language=objc"
+      },
+      {
+        "Name": "initWithDelegate:queue:options:",
+        "Description": "",
+        "Declaration": "- (instancetype)initWithDelegate:(id\u003cCBCentralManagerDelegate\u003e)delegate \n                           queue:(dispatch_queue_t)queue \n                         options:(NSDictionary\u003cNSString *,id\u003e *)options;\n",
+        "Return": {
+          "Name": "instancetype"
+        },
+        "Args": [
+          {
+            "Name": "delegate",
+            "Type": {
+              "Name": "id",
+              "Params": [
+                {
+                  "Name": "CBCentralManagerDelegate"
+                }
+              ]
+            }
+          },
+          {
+            "Name": "queue",
+            "Type": {
+              "Name": "dispatch_queue_t"
+            }
+          },
+          {
+            "Name": "options",
+            "Type": {
+              "Name": "NSDictionary",
+              "IsPtr": true,
+              "Params": [
+                {
+                  "Name": "NSString",
+                  "IsPtr": true
+                },
+                {
+                  "Name": "id"
+                }
+              ]
+            }
+          }
+        ],
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbcentralmanager/1519001-initwithdelegate?language=objc"
+      },
+      {
+        "Name": "connectPeripheral:options:",
+        "Description": "",
+        "Declaration": "- (void)connectPeripheral:(CBPeripheral *)peripheral \n                  options:(NSDictionary\u003cNSString *,id\u003e *)options;\n",
+        "Return": {
+          "Name": "void"
+        },
+        "Args": [
+          {
+            "Name": "peripheral",
+            "Type": {
+              "Name": "CBPeripheral",
+              "IsPtr": true
+            }
+          },
+          {
+            "Name": "options",
+            "Type": {
+              "Name": "NSDictionary",
+              "IsPtr": true,
+              "Params": [
+                {
+                  "Name": "NSString",
+                  "IsPtr": true
+                },
+                {
+                  "Name": "id"
+                }
+              ]
+            }
+          }
+        ],
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbcentralmanager/1518766-connectperipheral?language=objc"
+      },
+      {
+        "Name": "cancelPeripheralConnection:",
+        "Description": "",
+        "Declaration": "- (void)cancelPeripheralConnection:(CBPeripheral *)peripheral;",
+        "Return": {
+          "Name": "void"
+        },
+        "Args": [
+          {
+            "Name": "peripheral",
+            "Type": {
+              "Name": "CBPeripheral",
+              "IsPtr": true
+            }
+          }
+        ],
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbcentralmanager/1518952-cancelperipheralconnection?language=objc"
+      },
+      {
+        "Name": "retrieveConnectedPeripheralsWithServices:",
+        "Description": "",
+        "Declaration": "- (NSArray\u003cCBPeripheral *\u003e *)retrieveConnectedPeripheralsWithServices:(NSArray\u003cCBUUID *\u003e *)serviceUUIDs;",
+        "Return": {
+          "Name": "NSArray",
+          "IsPtr": true,
+          "Params": [
+            {
+              "Name": "CBPeripheral",
+              "IsPtr": true
+            }
+          ]
+        },
+        "Args": [
+          {
+            "Name": "serviceUUIDs",
+            "Type": {
+              "Name": "NSArray",
+              "IsPtr": true,
+              "Params": [
+                {
+                  "Name": "CBUUID",
+                  "IsPtr": true
+                }
+              ]
+            }
+          }
+        ],
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbcentralmanager/1518924-retrieveconnectedperipheralswith?language=objc"
+      },
+      {
+        "Name": "retrievePeripheralsWithIdentifiers:",
+        "Description": "",
+        "Declaration": "- (NSArray\u003cCBPeripheral *\u003e *)retrievePeripheralsWithIdentifiers:(NSArray\u003cNSUUID *\u003e *)identifiers;",
+        "Return": {
+          "Name": "NSArray",
+          "IsPtr": true,
+          "Params": [
+            {
+              "Name": "CBPeripheral",
+              "IsPtr": true
+            }
+          ]
+        },
+        "Args": [
+          {
+            "Name": "identifiers",
+            "Type": {
+              "Name": "NSArray",
+              "IsPtr": true,
+              "Params": [
+                {
+                  "Name": "NSUUID",
+                  "IsPtr": true
+                }
+              ]
+            }
+          }
+        ],
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbcentralmanager/1519127-retrieveperipheralswithidentifie?language=objc"
+      },
+      {
+        "Name": "scanForPeripheralsWithServices:options:",
+        "Description": "",
+        "Declaration": "- (void)scanForPeripheralsWithServices:(NSArray\u003cCBUUID *\u003e *)serviceUUIDs \n                               options:(NSDictionary\u003cNSString *,id\u003e *)options;\n",
+        "Return": {
+          "Name": "void"
+        },
+        "Args": [
+          {
+            "Name": "serviceUUIDs",
+            "Type": {
+              "Name": "NSArray",
+              "IsPtr": true,
+              "Params": [
+                {
+                  "Name": "CBUUID",
+                  "IsPtr": true
+                }
+              ]
+            }
+          },
+          {
+            "Name": "options",
+            "Type": {
+              "Name": "NSDictionary",
+              "IsPtr": true,
+              "Params": [
+                {
+                  "Name": "NSString",
+                  "IsPtr": true
+                },
+                {
+                  "Name": "id"
+                }
+              ]
+            }
+          }
+        ],
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbcentralmanager/1518986-scanforperipheralswithservices?language=objc"
+      },
+      {
+        "Name": "stopScan",
+        "Description": "",
+        "Declaration": "- (void)stopScan;",
+        "Return": {
+          "Name": "void"
+        },
+        "Args": null,
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbcentralmanager/1518984-stopscan?language=objc"
+      },
+      {
+        "Name": "registerForConnectionEventsWithOptions:",
+        "Description": "",
+        "Declaration": "- (void)registerForConnectionEventsWithOptions:(NSDictionary\u003cCBConnectionEventMatchingOption, id\u003e *)options;",
+        "Return": {
+          "Name": "void"
+        },
+        "Args": [
+          {
+            "Name": "options",
+            "Type": {
+              "Name": "NSDictionary",
+              "IsPtr": true,
+              "Params": [
+                {
+                  "Name": "CBConnectionEventMatchingOption"
+                },
+                {
+                  "Name": "id"
+                }
+              ]
+            }
+          }
+        ],
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbcentralmanager/3174844-registerforconnectioneventswitho?language=objc"
+      }
+    ],
+    "InstanceProperties": [
+      {
+        "Name": "isScanning",
+        "Description": "",
+        "Declaration": "@property(nonatomic, assign, readonly) BOOL isScanning;",
+        "Type": {
+          "Name": "BOOL"
+        },
+        "Attrs": {
+          "assign": true,
+          "nonatomic": true,
+          "readonly": true
+        },
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbcentralmanager/1620640-isscanning?language=objc"
+      },
+      {
+        "Name": "delegate",
+        "Description": "",
+        "Declaration": "@property(nonatomic, weak, nullable) id\u003cCBCentralManagerDelegate\u003e delegate;",
+        "Type": {
+          "Name": "id",
+          "Params": [
+            {
+              "Name": "CBCentralManagerDelegate"
+            }
+          ]
+        },
+        "Attrs": {
+          "nonatomic": true,
+          "nullable": true,
+          "weak": true
+        },
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbcentralmanager/1518944-delegate?language=objc"
+      }
+    ],
+    "TypeMethods": [
+      {
+        "Name": "supportsFeatures:",
+        "Description": "",
+        "Declaration": "+ (BOOL)supportsFeatures:(CBCentralManagerFeature)features;",
+        "Return": {
+          "Name": "BOOL"
+        },
+        "Args": [
+          {
+            "Name": "features",
+            "Type": {
+              "Name": "CBCentralManagerFeature"
+            }
+          }
+        ],
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbcentralmanager/3240586-supportsfeatures?language=objc"
+      }
+    ]
+  },
+  "Kind": "class",
+  "PullDate": "2022-07-14T23:31:28.957935759+02:00",
+  "Version": 2
+}

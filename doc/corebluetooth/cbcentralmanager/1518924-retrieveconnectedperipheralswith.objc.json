@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbcentralmanager/1518924-retrieveconnectedperipheralswith?language=objc",
+  "Title": "retrieveConnectedPeripheralsWithServices:",
+  "Type": "Instance Method",
+  "Description": "",
+  "Declaration": "- (NSArray\u003cCBPeripheral *\u003e *)retrieveConnectedPeripheralsWithServices:(NSArray\u003cCBUUID *\u003e *)serviceUUIDs;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:31:34.695584788+02:00",
+  "LastVersion": 2
+}

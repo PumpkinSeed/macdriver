@@ -1,0 +1,53 @@
+{
+  "Path": "/documentation/corebluetooth/cbperipheralmanager/advertising_data?language=objc",
+  "Title": "Advertising Data",
+  "Type": "API Collection",
+  "Description": "",
+  "Declaration": "",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": [
+    {
+      "Section": "Advertising Keys",
+      "Name": "CBAdvertisementDataIsConnectable",
+      "Path": "/documentation/corebluetooth/cbadvertisementdataisconnectable?language=objc"
+    },
+    {
+      "Section": "Advertising Keys",
+      "Name": "CBAdvertisementDataLocalNameKey",
+      "Path": "/documentation/corebluetooth/cbadvertisementdatalocalnamekey?language=objc"
+    },
+    {
+      "Section": "Advertising Keys",
+      "Name": "CBAdvertisementDataManufacturerDataKey",
+      "Path": "/documentation/corebluetooth/cbadvertisementdatamanufacturerdatakey?language=objc"
+    },
+    {
+      "Section": "Advertising Keys",
+      "Name": "CBAdvertisementDataOverflowServiceUUIDsKey",
+      "Path": "/documentation/corebluetooth/cbadvertisementdataoverflowserviceuuidskey?language=objc"
+    },
+    {
+      "Section": "Advertising Keys",
+      "Name": "CBAdvertisementDataServiceDataKey",
+      "Path": "/documentation/corebluetooth/cbadvertisementdataservicedatakey?language=objc"
+    },
+    {
+      "Section": "Advertising Keys",
+      "Name": "CBAdvertisementDataServiceUUIDsKey",
+      "Path": "/documentation/corebluetooth/cbadvertisementdataserviceuuidskey?language=objc"
+    },
+    {
+      "Section": "Advertising Keys",
+      "Name": "CBAdvertisementDataSolicitedServiceUUIDsKey",
+      "Path": "/documentation/corebluetooth/cbadvertisementdatasolicitedserviceuuidskey?language=objc"
+    },
+    {
+      "Section": "Advertising Keys",
+      "Name": "CBAdvertisementDataTxPowerLevelKey",
+      "Path": "/documentation/corebluetooth/cbadvertisementdatatxpowerlevelkey?language=objc"
+    }
+  ],
+  "LastFetch": "2022-07-14T23:32:18.81365813+02:00",
+  "LastVersion": 2
+}

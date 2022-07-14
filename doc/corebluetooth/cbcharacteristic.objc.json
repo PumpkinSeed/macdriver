@@ -1,0 +1,48 @@
+{
+  "Path": "/documentation/corebluetooth/cbcharacteristic?language=objc",
+  "Title": "CBCharacteristic",
+  "Type": "Class",
+  "Description": "",
+  "Declaration": "@interface CBCharacteristic : CBAttribute",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": [
+    {
+      "Section": "Identifying a Characteristic",
+      "Name": "service",
+      "Path": "/documentation/corebluetooth/cbcharacteristic/1518728-service?language=objc"
+    },
+    {
+      "Section": "Accessing Characteristic Data",
+      "Name": "value",
+      "Path": "/documentation/corebluetooth/cbcharacteristic/1518878-value?language=objc"
+    },
+    {
+      "Section": "Accessing Characteristic Data",
+      "Name": "descriptors",
+      "Path": "/documentation/corebluetooth/cbcharacteristic/1518957-descriptors?language=objc"
+    },
+    {
+      "Section": "Accessing Characteristic Data",
+      "Name": "properties",
+      "Path": "/documentation/corebluetooth/cbcharacteristic/1519010-properties?language=objc"
+    },
+    {
+      "Section": "Accessing Characteristic Data",
+      "Name": "CBCharacteristicProperties",
+      "Path": "/documentation/corebluetooth/cbcharacteristicproperties?language=objc"
+    },
+    {
+      "Section": "Accessing Characteristic Data",
+      "Name": "isNotifying",
+      "Path": "/documentation/corebluetooth/cbcharacteristic/1519057-isnotifying?language=objc"
+    },
+    {
+      "Section": "Accessing Characteristic Data",
+      "Name": "isBroadcasted",
+      "Path": "/documentation/corebluetooth/cbcharacteristic/1518920-isbroadcasted?language=objc"
+    }
+  ],
+  "LastFetch": "2022-07-14T23:32:57.506625383+02:00",
+  "LastVersion": 2
+}

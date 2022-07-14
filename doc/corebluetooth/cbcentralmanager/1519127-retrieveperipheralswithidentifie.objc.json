@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbcentralmanager/1519127-retrieveperipheralswithidentifie?language=objc",
+  "Title": "retrievePeripheralsWithIdentifiers:",
+  "Type": "Instance Method",
+  "Description": "",
+  "Declaration": "- (NSArray\u003cCBPeripheral *\u003e *)retrievePeripheralsWithIdentifiers:(NSArray\u003cNSUUID *\u003e *)identifiers;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:31:34.758475786+02:00",
+  "LastVersion": 2
+}

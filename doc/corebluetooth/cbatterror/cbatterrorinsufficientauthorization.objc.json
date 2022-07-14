@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbatterror/cbatterrorinsufficientauthorization?language=objc",
+  "Title": "CBATTErrorInsufficientAuthorization",
+  "Type": "Enumeration Case",
+  "Description": "",
+  "Declaration": "CBATTErrorInsufficientAuthorization = 0x08",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:34:03.7932004+02:00",
+  "LastVersion": 2
+}

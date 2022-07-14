@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbperipheralmanager/1393291-isadvertising?language=objc",
+  "Title": "isAdvertising",
+  "Type": "Instance Property",
+  "Description": "",
+  "Declaration": "@property(nonatomic, assign, readonly) BOOL isAdvertising;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:32:19.17393728+02:00",
+  "LastVersion": 2
+}

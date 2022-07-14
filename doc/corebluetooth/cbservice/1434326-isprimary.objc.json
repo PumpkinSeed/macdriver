@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbservice/1434326-isprimary?language=objc",
+  "Title": "isPrimary",
+  "Type": "Instance Property",
+  "Description": "",
+  "Declaration": "@property(readonly, nonatomic) BOOL isPrimary;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:32:47.993323675+02:00",
+  "LastVersion": 2
+}

@@ -1,0 +1,23 @@
+{
+  "Path": "/documentation/corebluetooth/cbdescriptor?language=objc",
+  "Title": "CBDescriptor",
+  "Type": "Class",
+  "Description": "",
+  "Declaration": "@interface CBDescriptor : CBAttribute",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": [
+    {
+      "Section": "Identifying a Descriptor",
+      "Name": "characteristic",
+      "Path": "/documentation/corebluetooth/cbdescriptor/1519035-characteristic?language=objc"
+    },
+    {
+      "Section": "Accessing Descriptor Data",
+      "Name": "value",
+      "Path": "/documentation/corebluetooth/cbdescriptor/1518778-value?language=objc"
+    }
+  ],
+  "LastFetch": "2022-07-14T23:33:08.558407411+02:00",
+  "LastVersion": 2
+}

@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbperipheralmanagerdelegate/1393289-peripheralmanager?language=objc",
+  "Title": "peripheralManager:central:didUnsubscribeFromCharacteristic:",
+  "Type": "Instance Method",
+  "Description": "",
+  "Declaration": "- (void)peripheralManager:(CBPeripheralManager *)peripheral \n                  central:(CBCentral *)central \ndidUnsubscribeFromCharacteristic:(CBCharacteristic *)characteristic;\n",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:32:27.130035761+02:00",
+  "LastVersion": 2
+}

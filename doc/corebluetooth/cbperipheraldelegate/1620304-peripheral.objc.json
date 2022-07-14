@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbperipheraldelegate/1620304-peripheral?language=objc",
+  "Title": "peripheral:didReadRSSI:error:",
+  "Type": "Instance Method",
+  "Description": "",
+  "Declaration": "- (void)peripheral:(CBPeripheral *)peripheral \n       didReadRSSI:(NSNumber *)RSSI \n             error:(NSError *)error;\n",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:32:09.051558357+02:00",
+  "LastVersion": 2
+}

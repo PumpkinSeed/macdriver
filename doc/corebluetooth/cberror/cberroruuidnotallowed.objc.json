@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cberror/cberroruuidnotallowed?language=objc",
+  "Title": "CBErrorUUIDNotAllowed",
+  "Type": "Enumeration Case",
+  "Description": "",
+  "Declaration": "CBErrorUUIDNotAllowed = 8",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:33:48.568386991+02:00",
+  "LastVersion": 2
+}

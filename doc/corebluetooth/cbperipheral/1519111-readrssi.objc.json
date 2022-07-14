@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbperipheral/1519111-readrssi?language=objc",
+  "Title": "readRSSI",
+  "Type": "Instance Method",
+  "Description": "",
+  "Declaration": "- (void)readRSSI;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:31:58.223218775+02:00",
+  "LastVersion": 2
+}

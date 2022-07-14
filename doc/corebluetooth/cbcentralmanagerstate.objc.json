@@ -1,0 +1,43 @@
+{
+  "Path": "/documentation/corebluetooth/cbcentralmanagerstate?language=objc",
+  "Title": "CBCentralManagerState",
+  "Type": "Enumeration",
+  "Description": "",
+  "Declaration": "typedef enum CBCentralManagerState : NSInteger {\n    ...\n} CBCentralManagerState;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": [
+    {
+      "Section": "Constants",
+      "Name": "CBCentralManagerStatePoweredOff",
+      "Path": "/documentation/corebluetooth/cbcentralmanagerstate/cbcentralmanagerstatepoweredoff?language=objc"
+    },
+    {
+      "Section": "Constants",
+      "Name": "CBCentralManagerStatePoweredOn",
+      "Path": "/documentation/corebluetooth/cbcentralmanagerstate/cbcentralmanagerstatepoweredon?language=objc"
+    },
+    {
+      "Section": "Constants",
+      "Name": "CBCentralManagerStateResetting",
+      "Path": "/documentation/corebluetooth/cbcentralmanagerstate/cbcentralmanagerstateresetting?language=objc"
+    },
+    {
+      "Section": "Constants",
+      "Name": "CBCentralManagerStateUnauthorized",
+      "Path": "/documentation/corebluetooth/cbcentralmanagerstate/cbcentralmanagerstateunauthorized?language=objc"
+    },
+    {
+      "Section": "Constants",
+      "Name": "CBCentralManagerStateUnknown",
+      "Path": "/documentation/corebluetooth/cbcentralmanagerstate/cbcentralmanagerstateunknown?language=objc"
+    },
+    {
+      "Section": "Constants",
+      "Name": "CBCentralManagerStateUnsupported",
+      "Path": "/documentation/corebluetooth/cbcentralmanagerstate/cbcentralmanagerstateunsupported?language=objc"
+    }
+  ],
+  "LastFetch": "2022-07-14T23:31:38.559358655+02:00",
+  "LastVersion": 2
+}

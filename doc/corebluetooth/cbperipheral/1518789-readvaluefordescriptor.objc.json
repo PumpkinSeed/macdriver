@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbperipheral/1518789-readvaluefordescriptor?language=objc",
+  "Title": "readValueForDescriptor:",
+  "Type": "Instance Method",
+  "Description": "",
+  "Declaration": "- (void)readValueForDescriptor:(CBDescriptor *)descriptor;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:31:55.195782839+02:00",
+  "LastVersion": 2
+}

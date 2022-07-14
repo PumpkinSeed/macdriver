@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbperipheralmanager/1393277-setdesiredconnectionlatency?language=objc",
+  "Title": "setDesiredConnectionLatency:forCentral:",
+  "Type": "Instance Method",
+  "Description": "",
+  "Declaration": "- (void)setDesiredConnectionLatency:(CBPeripheralManagerConnectionLatency)latency \n                         forCentral:(CBCentral *)central;\n",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:32:21.607345668+02:00",
+  "LastVersion": 2
+}

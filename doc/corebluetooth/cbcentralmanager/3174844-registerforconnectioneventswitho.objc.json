@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbcentralmanager/3174844-registerforconnectioneventswitho?language=objc",
+  "Title": "registerForConnectionEventsWithOptions:",
+  "Type": "Instance Method",
+  "Description": "",
+  "Declaration": "- (void)registerForConnectionEventsWithOptions:(NSDictionary\u003cCBConnectionEventMatchingOption, id\u003e *)options;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:31:38.265136845+02:00",
+  "LastVersion": 2
+}

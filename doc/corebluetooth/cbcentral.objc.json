@@ -1,0 +1,18 @@
+{
+  "Path": "/documentation/corebluetooth/cbcentral?language=objc",
+  "Title": "CBCentral",
+  "Type": "Class",
+  "Description": "",
+  "Declaration": "@interface CBCentral : CBPeer",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": [
+    {
+      "Section": "Identifying a Remote Central",
+      "Name": "maximumUpdateValueLength",
+      "Path": "/documentation/corebluetooth/cbcentral/1408800-maximumupdatevaluelength?language=objc"
+    }
+  ],
+  "LastFetch": "2022-07-14T23:31:23.19988156+02:00",
+  "LastVersion": 2
+}

@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbuuid/1519007-data?language=objc",
+  "Title": "data",
+  "Type": "Instance Property",
+  "Description": "",
+  "Declaration": "@property(nonatomic, readonly) NSData *data;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:33:36.11646518+02:00",
+  "LastVersion": 2
+}

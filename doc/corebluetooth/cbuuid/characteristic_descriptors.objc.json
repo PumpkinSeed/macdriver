@@ -1,0 +1,48 @@
+{
+  "Path": "/documentation/corebluetooth/cbuuid/characteristic_descriptors?language=objc",
+  "Title": "Characteristic Descriptors",
+  "Type": "API Collection",
+  "Description": "",
+  "Declaration": "",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": [
+    {
+      "Section": "Characteristic Descriptors",
+      "Name": "CBUUIDCharacteristicExtendedPropertiesString",
+      "Path": "/documentation/corebluetooth/cbuuidcharacteristicextendedpropertiesstring?language=objc"
+    },
+    {
+      "Section": "Characteristic Descriptors",
+      "Name": "CBUUIDCharacteristicUserDescriptionString",
+      "Path": "/documentation/corebluetooth/cbuuidcharacteristicuserdescriptionstring?language=objc"
+    },
+    {
+      "Section": "Characteristic Descriptors",
+      "Name": "CBUUIDClientCharacteristicConfigurationString",
+      "Path": "/documentation/corebluetooth/cbuuidclientcharacteristicconfigurationstring?language=objc"
+    },
+    {
+      "Section": "Characteristic Descriptors",
+      "Name": "CBUUIDServerCharacteristicConfigurationString",
+      "Path": "/documentation/corebluetooth/cbuuidservercharacteristicconfigurationstring?language=objc"
+    },
+    {
+      "Section": "Characteristic Descriptors",
+      "Name": "CBUUIDCharacteristicFormatString",
+      "Path": "/documentation/corebluetooth/cbuuidcharacteristicformatstring?language=objc"
+    },
+    {
+      "Section": "Characteristic Descriptors",
+      "Name": "CBUUIDCharacteristicAggregateFormatString",
+      "Path": "/documentation/corebluetooth/cbuuidcharacteristicaggregateformatstring?language=objc"
+    },
+    {
+      "Section": "Characteristic Descriptors",
+      "Name": "CBUUIDL2CAPPSMCharacteristicString",
+      "Path": "/documentation/corebluetooth/cbuuidl2cappsmcharacteristicstring?language=objc"
+    }
+  ],
+  "LastFetch": "2022-07-14T23:33:36.116300168+02:00",
+  "LastVersion": 2
+}

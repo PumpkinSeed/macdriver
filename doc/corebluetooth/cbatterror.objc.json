@@ -1,0 +1,103 @@
+{
+  "Path": "/documentation/corebluetooth/cbatterror?language=objc",
+  "Title": "CBATTError",
+  "Type": "Enumeration",
+  "Description": "",
+  "Declaration": "typedef enum CBATTError : NSInteger {\n    ...\n} CBATTError;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": [
+    {
+      "Section": "Error Codes",
+      "Name": "CBATTErrorSuccess",
+      "Path": "/documentation/corebluetooth/cbatterror/cbatterrorsuccess?language=objc"
+    },
+    {
+      "Section": "Error Codes",
+      "Name": "CBATTErrorInvalidHandle",
+      "Path": "/documentation/corebluetooth/cbatterror/cbatterrorinvalidhandle?language=objc"
+    },
+    {
+      "Section": "Error Codes",
+      "Name": "CBATTErrorReadNotPermitted",
+      "Path": "/documentation/corebluetooth/cbatterror/cbatterrorreadnotpermitted?language=objc"
+    },
+    {
+      "Section": "Error Codes",
+      "Name": "CBATTErrorWriteNotPermitted",
+      "Path": "/documentation/corebluetooth/cbatterror/cbatterrorwritenotpermitted?language=objc"
+    },
+    {
+      "Section": "Error Codes",
+      "Name": "CBATTErrorInvalidPdu",
+      "Path": "/documentation/corebluetooth/cbatterror/cbatterrorinvalidpdu?language=objc"
+    },
+    {
+      "Section": "Error Codes",
+      "Name": "CBATTErrorInsufficientAuthentication",
+      "Path": "/documentation/corebluetooth/cbatterror/cbatterrorinsufficientauthentication?language=objc"
+    },
+    {
+      "Section": "Error Codes",
+      "Name": "CBATTErrorRequestNotSupported",
+      "Path": "/documentation/corebluetooth/cbatterror/cbatterrorrequestnotsupported?language=objc"
+    },
+    {
+      "Section": "Error Codes",
+      "Name": "CBATTErrorInvalidOffset",
+      "Path": "/documentation/corebluetooth/cbatterror/cbatterrorinvalidoffset?language=objc"
+    },
+    {
+      "Section": "Error Codes",
+      "Name": "CBATTErrorInsufficientAuthorization",
+      "Path": "/documentation/corebluetooth/cbatterror/cbatterrorinsufficientauthorization?language=objc"
+    },
+    {
+      "Section": "Error Codes",
+      "Name": "CBATTErrorPrepareQueueFull",
+      "Path": "/documentation/corebluetooth/cbatterror/cbatterrorpreparequeuefull?language=objc"
+    },
+    {
+      "Section": "Error Codes",
+      "Name": "CBATTErrorAttributeNotFound",
+      "Path": "/documentation/corebluetooth/cbatterror/cbatterrorattributenotfound?language=objc"
+    },
+    {
+      "Section": "Error Codes",
+      "Name": "CBATTErrorAttributeNotLong",
+      "Path": "/documentation/corebluetooth/cbatterror/cbatterrorattributenotlong?language=objc"
+    },
+    {
+      "Section": "Error Codes",
+      "Name": "CBATTErrorInsufficientEncryptionKeySize",
+      "Path": "/documentation/corebluetooth/cbatterror/cbatterrorinsufficientencryptionkeysize?language=objc"
+    },
+    {
+      "Section": "Error Codes",
+      "Name": "CBATTErrorInvalidAttributeValueLength",
+      "Path": "/documentation/corebluetooth/cbatterror/cbatterrorinvalidattributevaluelength?language=objc"
+    },
+    {
+      "Section": "Error Codes",
+      "Name": "CBATTErrorUnlikelyError",
+      "Path": "/documentation/corebluetooth/cbatterror/cbatterrorunlikelyerror?language=objc"
+    },
+    {
+      "Section": "Error Codes",
+      "Name": "CBATTErrorInsufficientEncryption",
+      "Path": "/documentation/corebluetooth/cbatterror/cbatterrorinsufficientencryption?language=objc"
+    },
+    {
+      "Section": "Error Codes",
+      "Name": "CBATTErrorUnsupportedGroupType",
+      "Path": "/documentation/corebluetooth/cbatterror/cbatterrorunsupportedgrouptype?language=objc"
+    },
+    {
+      "Section": "Error Codes",
+      "Name": "CBATTErrorInsufficientResources",
+      "Path": "/documentation/corebluetooth/cbatterror/cbatterrorinsufficientresources?language=objc"
+    }
+  ],
+  "LastFetch": "2022-07-14T23:33:58.427011632+02:00",
+  "LastVersion": 2
+}

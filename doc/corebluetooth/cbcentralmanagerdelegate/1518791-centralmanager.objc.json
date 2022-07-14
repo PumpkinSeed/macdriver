@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbcentralmanagerdelegate/1518791-centralmanager?language=objc",
+  "Title": "centralManager:didDisconnectPeripheral:error:",
+  "Type": "Instance Method",
+  "Description": "",
+  "Declaration": "- (void)centralManager:(CBCentralManager *)central \ndidDisconnectPeripheral:(CBPeripheral *)peripheral \n                 error:(NSError *)error;\n",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:31:43.503215816+02:00",
+  "LastVersion": 2
+}

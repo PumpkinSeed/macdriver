@@ -1,0 +1,82 @@
+{
+  "Class": {
+    "Name": "CBService",
+    "Declaration": "@interface CBService : CBAttribute",
+    "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbservice?language=objc",
+    "InstanceProperties": [
+      {
+        "Name": "peripheral",
+        "Description": "",
+        "Declaration": "@property(weak, readonly, nonatomic) CBPeripheral *peripheral;",
+        "Type": {
+          "Name": "CBPeripheral",
+          "IsPtr": true
+        },
+        "Attrs": {
+          "nonatomic": true,
+          "readonly": true,
+          "weak": true
+        },
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbservice/1434334-peripheral?language=objc"
+      },
+      {
+        "Name": "isPrimary",
+        "Description": "",
+        "Declaration": "@property(readonly, nonatomic) BOOL isPrimary;",
+        "Type": {
+          "Name": "BOOL"
+        },
+        "Attrs": {
+          "nonatomic": true,
+          "readonly": true
+        },
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbservice/1434326-isprimary?language=objc"
+      },
+      {
+        "Name": "characteristics",
+        "Description": "",
+        "Declaration": "@property(retain, readonly, nullable) NSArray\u003cCBCharacteristic *\u003e *characteristics;",
+        "Type": {
+          "Name": "NSArray",
+          "IsPtr": true,
+          "Params": [
+            {
+              "Name": "CBCharacteristic",
+              "IsPtr": true
+            }
+          ]
+        },
+        "Attrs": {
+          "nullable": true,
+          "readonly": true,
+          "retain": true
+        },
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbservice/1434319-characteristics?language=objc"
+      },
+      {
+        "Name": "includedServices",
+        "Description": "",
+        "Declaration": "@property(retain, readonly, nullable) NSArray\u003cCBService *\u003e *includedServices;",
+        "Type": {
+          "Name": "NSArray",
+          "IsPtr": true,
+          "Params": [
+            {
+              "Name": "CBService",
+              "IsPtr": true
+            }
+          ]
+        },
+        "Attrs": {
+          "nullable": true,
+          "readonly": true,
+          "retain": true
+        },
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbservice/1434324-includedservices?language=objc"
+      }
+    ]
+  },
+  "Kind": "class",
+  "PullDate": "2022-07-14T23:32:45.436447077+02:00",
+  "Version": 2
+}

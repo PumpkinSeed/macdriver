@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbmutabledescriptor/1518999-initwithtype?language=objc",
+  "Title": "initWithType:value:",
+  "Type": "Instance Method",
+  "Description": "",
+  "Declaration": "- (instancetype)initWithType:(CBUUID *)UUID \n                       value:(id)value;\n",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:33:15.095756885+02:00",
+  "LastVersion": 2
+}

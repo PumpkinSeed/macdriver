@@ -1,0 +1,63 @@
+{
+  "Path": "/documentation/corebluetooth/cbcharacteristicproperties?language=objc",
+  "Title": "CBCharacteristicProperties",
+  "Type": "Enumeration",
+  "Description": "",
+  "Declaration": "typedef enum CBCharacteristicProperties : NSUInteger {\n    ...\n} CBCharacteristicProperties;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": [
+    {
+      "Section": "Characteristic Properties",
+      "Name": "CBCharacteristicPropertyBroadcast",
+      "Path": "/documentation/corebluetooth/cbcharacteristicproperties/cbcharacteristicpropertybroadcast?language=objc"
+    },
+    {
+      "Section": "Characteristic Properties",
+      "Name": "CBCharacteristicPropertyRead",
+      "Path": "/documentation/corebluetooth/cbcharacteristicproperties/cbcharacteristicpropertyread?language=objc"
+    },
+    {
+      "Section": "Characteristic Properties",
+      "Name": "CBCharacteristicPropertyWriteWithoutResponse",
+      "Path": "/documentation/corebluetooth/cbcharacteristicproperties/cbcharacteristicpropertywritewithoutresponse?language=objc"
+    },
+    {
+      "Section": "Characteristic Properties",
+      "Name": "CBCharacteristicPropertyWrite",
+      "Path": "/documentation/corebluetooth/cbcharacteristicproperties/cbcharacteristicpropertywrite?language=objc"
+    },
+    {
+      "Section": "Characteristic Properties",
+      "Name": "CBCharacteristicPropertyNotify",
+      "Path": "/documentation/corebluetooth/cbcharacteristicproperties/cbcharacteristicpropertynotify?language=objc"
+    },
+    {
+      "Section": "Characteristic Properties",
+      "Name": "CBCharacteristicPropertyIndicate",
+      "Path": "/documentation/corebluetooth/cbcharacteristicproperties/cbcharacteristicpropertyindicate?language=objc"
+    },
+    {
+      "Section": "Characteristic Properties",
+      "Name": "CBCharacteristicPropertyAuthenticatedSignedWrites",
+      "Path": "/documentation/corebluetooth/cbcharacteristicproperties/cbcharacteristicpropertyauthenticatedsignedwrites?language=objc"
+    },
+    {
+      "Section": "Characteristic Properties",
+      "Name": "CBCharacteristicPropertyExtendedProperties",
+      "Path": "/documentation/corebluetooth/cbcharacteristicproperties/cbcharacteristicpropertyextendedproperties?language=objc"
+    },
+    {
+      "Section": "Characteristic Properties",
+      "Name": "CBCharacteristicPropertyNotifyEncryptionRequired",
+      "Path": "/documentation/corebluetooth/cbcharacteristicproperties/cbcharacteristicpropertynotifyencryptionrequired?language=objc"
+    },
+    {
+      "Section": "Characteristic Properties",
+      "Name": "CBCharacteristicPropertyIndicateEncryptionRequired",
+      "Path": "/documentation/corebluetooth/cbcharacteristicproperties/cbcharacteristicpropertyindicateencryptionrequired?language=objc"
+    }
+  ],
+  "LastFetch": "2022-07-14T23:32:59.789346622+02:00",
+  "LastVersion": 2
+}

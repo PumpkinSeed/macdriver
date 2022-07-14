@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbperipheraldelegate/2874034-peripheralisreadytosendwritewith?language=objc",
+  "Title": "peripheralIsReadyToSendWriteWithoutResponse:",
+  "Type": "Instance Method",
+  "Description": "",
+  "Declaration": "- (void)peripheralIsReadyToSendWriteWithoutResponse:(CBPeripheral *)peripheral;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:32:08.836153835+02:00",
+  "LastVersion": 2
+}

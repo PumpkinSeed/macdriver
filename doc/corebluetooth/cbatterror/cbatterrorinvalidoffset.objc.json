@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbatterror/cbatterrorinvalidoffset?language=objc",
+  "Title": "CBATTErrorInvalidOffset",
+  "Type": "Enumeration Case",
+  "Description": "",
+  "Declaration": "CBATTErrorInvalidOffset = 0x07",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:34:00.642665679+02:00",
+  "LastVersion": 2
+}

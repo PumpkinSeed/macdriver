@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbuuid/1518861-uuidwithcfuuid?language=objc",
+  "Title": "UUIDWithCFUUID:",
+  "Type": "Type Method",
+  "Description": "",
+  "Declaration": "+ (CBUUID *)UUIDWithCFUUID:(CFUUIDRef)theUUID;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:33:36.116341303+02:00",
+  "LastVersion": 2
+}

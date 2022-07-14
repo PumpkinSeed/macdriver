@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbattribute/1620638-uuid?language=objc",
+  "Title": "UUID",
+  "Type": "Instance Property",
+  "Description": "",
+  "Declaration": "@property(readonly, nonatomic) CBUUID *UUID;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:32:37.109139965+02:00",
+  "LastVersion": 2
+}

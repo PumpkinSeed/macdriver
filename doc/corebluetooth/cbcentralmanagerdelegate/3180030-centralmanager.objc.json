@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbcentralmanagerdelegate/3180030-centralmanager?language=objc",
+  "Title": "centralManager:didUpdateANCSAuthorizationForPeripheral:",
+  "Type": "Instance Method",
+  "Description": "",
+  "Declaration": "- (void)centralManager:(CBCentralManager *)central \ndidUpdateANCSAuthorizationForPeripheral:(CBPeripheral *)peripheral;\n",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:31:45.871645022+02:00",
+  "LastVersion": 2
+}

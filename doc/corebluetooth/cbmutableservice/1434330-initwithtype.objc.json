@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbmutableservice/1434330-initwithtype?language=objc",
+  "Title": "initWithType:primary:",
+  "Type": "Instance Method",
+  "Description": "",
+  "Declaration": "- (instancetype)initWithType:(CBUUID *)UUID \n                     primary:(BOOL)isPrimary;\n",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:32:54.005777728+02:00",
+  "LastVersion": 2
+}

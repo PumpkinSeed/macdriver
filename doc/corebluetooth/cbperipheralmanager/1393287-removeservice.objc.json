@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbperipheralmanager/1393287-removeservice?language=objc",
+  "Title": "removeService:",
+  "Type": "Instance Method",
+  "Description": "",
+  "Declaration": "- (void)removeService:(CBMutableService *)service;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:32:18.57253393+02:00",
+  "LastVersion": 2
+}

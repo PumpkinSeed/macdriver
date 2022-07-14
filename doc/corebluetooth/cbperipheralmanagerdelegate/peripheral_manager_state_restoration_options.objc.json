@@ -1,0 +1,23 @@
+{
+  "Path": "/documentation/corebluetooth/cbperipheralmanagerdelegate/peripheral_manager_state_restoration_options?language=objc",
+  "Title": "Peripheral Manager State Restoration Options",
+  "Type": "API Collection",
+  "Description": "",
+  "Declaration": "",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": [
+    {
+      "Section": "State Restoration Dictionary Keys",
+      "Name": "CBPeripheralManagerRestoredStateServicesKey",
+      "Path": "/documentation/corebluetooth/cbperipheralmanagerrestoredstateserviceskey?language=objc"
+    },
+    {
+      "Section": "State Restoration Dictionary Keys",
+      "Name": "CBPeripheralManagerRestoredStateAdvertisementDataKey",
+      "Path": "/documentation/corebluetooth/cbperipheralmanagerrestoredstateadvertisementdatakey?language=objc"
+    }
+  ],
+  "LastFetch": "2022-07-14T23:32:27.129550679+02:00",
+  "LastVersion": 2
+}

@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbattributepermissions/cbattributepermissionswriteable?language=objc",
+  "Title": "CBAttributePermissionsWriteable",
+  "Type": "Enumeration Case",
+  "Description": "",
+  "Declaration": "CBAttributePermissionsWriteable = 0x02",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:32:41.956074846+02:00",
+  "LastVersion": 2
+}

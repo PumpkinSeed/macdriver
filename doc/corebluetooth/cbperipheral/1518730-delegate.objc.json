@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbperipheral/1518730-delegate?language=objc",
+  "Title": "delegate",
+  "Type": "Instance Property",
+  "Description": "",
+  "Declaration": "@property(weak, nonatomic, nullable) id\u003cCBPeripheralDelegate\u003e delegate;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:31:52.056338844+02:00",
+  "LastVersion": 2
+}

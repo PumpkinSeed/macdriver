@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbperipheralmanager/1393299-initwithdelegate?language=objc",
+  "Title": "initWithDelegate:queue:",
+  "Type": "Instance Method",
+  "Description": "",
+  "Declaration": "- (instancetype)initWithDelegate:(id\u003cCBPeripheralManagerDelegate\u003e)delegate \n                           queue:(dispatch_queue_t)queue;\n",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:32:15.759438029+02:00",
+  "LastVersion": 2
+}

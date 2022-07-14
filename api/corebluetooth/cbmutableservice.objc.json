@@ -1,0 +1,80 @@
+{
+  "Class": {
+    "Name": "CBMutableService",
+    "Declaration": "@interface CBMutableService : CBService",
+    "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbmutableservice?language=objc",
+    "InstanceMethods": [
+      {
+        "Name": "initWithType:primary:",
+        "Description": "",
+        "Declaration": "- (instancetype)initWithType:(CBUUID *)UUID \n                     primary:(BOOL)isPrimary;\n",
+        "Return": {
+          "Name": "instancetype"
+        },
+        "Args": [
+          {
+            "Name": "UUID",
+            "Type": {
+              "Name": "CBUUID",
+              "IsPtr": true
+            }
+          },
+          {
+            "Name": "isPrimary",
+            "Type": {
+              "Name": "BOOL"
+            }
+          }
+        ],
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbmutableservice/1434330-initwithtype?language=objc"
+      }
+    ],
+    "InstanceProperties": [
+      {
+        "Name": "characteristics",
+        "Description": "",
+        "Declaration": "@property(retain, readwrite, nullable) NSArray\u003cCBCharacteristic *\u003e *characteristics;",
+        "Type": {
+          "Name": "NSArray",
+          "IsPtr": true,
+          "Params": [
+            {
+              "Name": "CBCharacteristic",
+              "IsPtr": true
+            }
+          ]
+        },
+        "Attrs": {
+          "nullable": true,
+          "readwrite": true,
+          "retain": true
+        },
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbmutableservice/1434317-characteristics?language=objc"
+      },
+      {
+        "Name": "includedServices",
+        "Description": "",
+        "Declaration": "@property(retain, readwrite, nullable) NSArray\u003cCBService *\u003e *includedServices;",
+        "Type": {
+          "Name": "NSArray",
+          "IsPtr": true,
+          "Params": [
+            {
+              "Name": "CBService",
+              "IsPtr": true
+            }
+          ]
+        },
+        "Attrs": {
+          "nullable": true,
+          "readwrite": true,
+          "retain": true
+        },
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbmutableservice/1434320-includedservices?language=objc"
+      }
+    ]
+  },
+  "Kind": "class",
+  "PullDate": "2022-07-14T23:32:51.463973294+02:00",
+  "Version": 2
+}

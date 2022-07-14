@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbperipheralmanager/1616317-authorizationstatus?language=objc",
+  "Title": "authorizationStatus",
+  "Type": "Type Method",
+  "Description": "",
+  "Declaration": "+ (CBPeripheralManagerAuthorizationStatus)authorizationStatus;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:32:15.759418336+02:00",
+  "LastVersion": 2
+}

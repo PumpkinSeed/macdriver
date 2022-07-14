@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbmanager/1648600-state?language=objc",
+  "Title": "state",
+  "Type": "Instance Property",
+  "Description": "",
+  "Declaration": "@property(nonatomic, assign, readonly) CBManagerState state;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:33:20.059446963+02:00",
+  "LastVersion": 2
+}

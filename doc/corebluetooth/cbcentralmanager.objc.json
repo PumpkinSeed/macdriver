@@ -1,0 +1,123 @@
+{
+  "Path": "/documentation/corebluetooth/cbcentralmanager?language=objc",
+  "Title": "CBCentralManager",
+  "Type": "Class",
+  "Description": "",
+  "Declaration": "@interface CBCentralManager : CBManager",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": [
+    {
+      "Section": "Initializing a Central Manager",
+      "Name": "- init",
+      "Path": "/documentation/corebluetooth/cbcentralmanager/1648596-init?language=objc"
+    },
+    {
+      "Section": "Initializing a Central Manager",
+      "Name": "- initWithDelegate:queue:",
+      "Path": "/documentation/corebluetooth/cbcentralmanager/1518695-initwithdelegate?language=objc"
+    },
+    {
+      "Section": "Initializing a Central Manager",
+      "Name": "- initWithDelegate:queue:options:",
+      "Path": "/documentation/corebluetooth/cbcentralmanager/1519001-initwithdelegate?language=objc"
+    },
+    {
+      "Section": "Initializing a Central Manager",
+      "Name": "Central Manager Initialization Options",
+      "Path": "/documentation/corebluetooth/cbcentralmanager/central_manager_initialization_options?language=objc"
+    },
+    {
+      "Section": "Initializing a Central Manager",
+      "Name": "Central Manager State Restoration Options",
+      "Path": "/documentation/corebluetooth/cbcentralmanager/central_manager_state_restoration_options?language=objc"
+    },
+    {
+      "Section": "Establishing or Canceling Connections with Peripherals",
+      "Name": "- connectPeripheral:options:",
+      "Path": "/documentation/corebluetooth/cbcentralmanager/1518766-connectperipheral?language=objc"
+    },
+    {
+      "Section": "Establishing or Canceling Connections with Peripherals",
+      "Name": "Peripheral Connection Options",
+      "Path": "/documentation/corebluetooth/cbcentralmanager/peripheral_connection_options?language=objc"
+    },
+    {
+      "Section": "Establishing or Canceling Connections with Peripherals",
+      "Name": "- cancelPeripheralConnection:",
+      "Path": "/documentation/corebluetooth/cbcentralmanager/1518952-cancelperipheralconnection?language=objc"
+    },
+    {
+      "Section": "Retrieving Lists of Peripherals",
+      "Name": "- retrieveConnectedPeripheralsWithServices:",
+      "Path": "/documentation/corebluetooth/cbcentralmanager/1518924-retrieveconnectedperipheralswith?language=objc"
+    },
+    {
+      "Section": "Retrieving Lists of Peripherals",
+      "Name": "- retrievePeripheralsWithIdentifiers:",
+      "Path": "/documentation/corebluetooth/cbcentralmanager/1519127-retrieveperipheralswithidentifie?language=objc"
+    },
+    {
+      "Section": "Scanning or Stopping Scans of Peripherals",
+      "Name": "- scanForPeripheralsWithServices:options:",
+      "Path": "/documentation/corebluetooth/cbcentralmanager/1518986-scanforperipheralswithservices?language=objc"
+    },
+    {
+      "Section": "Scanning or Stopping Scans of Peripherals",
+      "Name": "Peripheral Scanning Options",
+      "Path": "/documentation/corebluetooth/cbcentralmanager/peripheral_scanning_options?language=objc"
+    },
+    {
+      "Section": "Scanning or Stopping Scans of Peripherals",
+      "Name": "- stopScan",
+      "Path": "/documentation/corebluetooth/cbcentralmanager/1518984-stopscan?language=objc"
+    },
+    {
+      "Section": "Scanning or Stopping Scans of Peripherals",
+      "Name": "isScanning",
+      "Path": "/documentation/corebluetooth/cbcentralmanager/1620640-isscanning?language=objc"
+    },
+    {
+      "Section": "Inspecting Feature Support",
+      "Name": "+ supportsFeatures:",
+      "Path": "/documentation/corebluetooth/cbcentralmanager/3240586-supportsfeatures?language=objc"
+    },
+    {
+      "Section": "Inspecting Feature Support",
+      "Name": "CBCentralManagerFeature",
+      "Path": "/documentation/corebluetooth/cbcentralmanagerfeature?language=objc"
+    },
+    {
+      "Section": "Monitoring Properties",
+      "Name": "delegate",
+      "Path": "/documentation/corebluetooth/cbcentralmanager/1518944-delegate?language=objc"
+    },
+    {
+      "Section": "Receiving Connection Events",
+      "Name": "- registerForConnectionEventsWithOptions:",
+      "Path": "/documentation/corebluetooth/cbcentralmanager/3174844-registerforconnectioneventswitho?language=objc"
+    },
+    {
+      "Section": "Receiving Connection Events",
+      "Name": "Peripheral Connection Options",
+      "Path": "/documentation/corebluetooth/cbcentralmanager/peripheral_connection_options?language=objc"
+    },
+    {
+      "Section": "Receiving Connection Events",
+      "Name": "CBConnectionEvent",
+      "Path": "/documentation/corebluetooth/cbconnectionevent?language=objc"
+    },
+    {
+      "Section": "Receiving Connection Events",
+      "Name": "CBConnectionEventMatchingOption",
+      "Path": "/documentation/corebluetooth/cbconnectioneventmatchingoption?language=objc"
+    },
+    {
+      "Section": "Deprecated",
+      "Name": "CBCentralManagerState",
+      "Path": "/documentation/corebluetooth/cbcentralmanagerstate?language=objc"
+    }
+  ],
+  "LastFetch": "2022-07-14T23:31:28.957935759+02:00",
+  "LastVersion": 2
+}

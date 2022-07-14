@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbattrequest/1518995-central?language=objc",
+  "Title": "central",
+  "Type": "Instance Property",
+  "Description": "",
+  "Declaration": "@property(readonly, nonatomic) CBCentral *central;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:33:25.379653568+02:00",
+  "LastVersion": 2
+}

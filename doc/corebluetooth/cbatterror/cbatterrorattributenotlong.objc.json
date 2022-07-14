@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbatterror/cbatterrorattributenotlong?language=objc",
+  "Title": "CBATTErrorAttributeNotLong",
+  "Type": "Enumeration Case",
+  "Description": "",
+  "Declaration": "CBATTErrorAttributeNotLong = 0x0B",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:34:04.168756938+02:00",
+  "LastVersion": 2
+}

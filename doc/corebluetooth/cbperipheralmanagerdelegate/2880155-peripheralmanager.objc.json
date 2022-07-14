@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbperipheralmanagerdelegate/2880155-peripheralmanager?language=objc",
+  "Title": "peripheralManager:didUnpublishL2CAPChannel:error:",
+  "Type": "Instance Method",
+  "Description": "",
+  "Declaration": "- (void)peripheralManager:(CBPeripheralManager *)peripheral \n didUnpublishL2CAPChannel:(CBL2CAPPSM)PSM \n                    error:(NSError *)error;\n",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:32:30.792624897+02:00",
+  "LastVersion": 2
+}

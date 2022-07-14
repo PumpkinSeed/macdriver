@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbperipheralmanagerdelegate/1393257-peripheralmanager?language=objc",
+  "Title": "peripheralManager:didReceiveReadRequest:",
+  "Type": "Instance Method",
+  "Description": "",
+  "Declaration": "- (void)peripheralManager:(CBPeripheralManager *)peripheral \n    didReceiveReadRequest:(CBATTRequest *)request;\n",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:32:29.24240604+02:00",
+  "LastVersion": 2
+}

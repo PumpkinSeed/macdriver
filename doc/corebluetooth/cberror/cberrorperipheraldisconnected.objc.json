@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cberror/cberrorperipheraldisconnected?language=objc",
+  "Title": "CBErrorPeripheralDisconnected",
+  "Type": "Enumeration Case",
+  "Description": "",
+  "Declaration": "CBErrorPeripheralDisconnected = 7",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:33:45.402442619+02:00",
+  "LastVersion": 2
+}

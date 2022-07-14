@@ -1,0 +1,43 @@
+{
+  "Path": "/documentation/corebluetooth/cbperipheralmanagerstate?language=objc",
+  "Title": "CBPeripheralManagerState",
+  "Type": "Enumeration",
+  "Description": "",
+  "Declaration": "typedef enum CBPeripheralManagerState : NSInteger {\n    ...\n} CBPeripheralManagerState;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": [
+    {
+      "Section": "Constants",
+      "Name": "CBPeripheralManagerStateUnknown",
+      "Path": "/documentation/corebluetooth/cbperipheralmanagerstate/cbperipheralmanagerstateunknown?language=objc"
+    },
+    {
+      "Section": "Constants",
+      "Name": "CBPeripheralManagerStateResetting",
+      "Path": "/documentation/corebluetooth/cbperipheralmanagerstate/cbperipheralmanagerstateresetting?language=objc"
+    },
+    {
+      "Section": "Constants",
+      "Name": "CBPeripheralManagerStateUnsupported",
+      "Path": "/documentation/corebluetooth/cbperipheralmanagerstate/cbperipheralmanagerstateunsupported?language=objc"
+    },
+    {
+      "Section": "Constants",
+      "Name": "CBPeripheralManagerStateUnauthorized",
+      "Path": "/documentation/corebluetooth/cbperipheralmanagerstate/cbperipheralmanagerstateunauthorized?language=objc"
+    },
+    {
+      "Section": "Constants",
+      "Name": "CBPeripheralManagerStatePoweredOff",
+      "Path": "/documentation/corebluetooth/cbperipheralmanagerstate/cbperipheralmanagerstatepoweredoff?language=objc"
+    },
+    {
+      "Section": "Constants",
+      "Name": "CBPeripheralManagerStatePoweredOn",
+      "Path": "/documentation/corebluetooth/cbperipheralmanagerstate/cbperipheralmanagerstatepoweredon?language=objc"
+    }
+  ],
+  "LastFetch": "2022-07-14T23:32:15.75937905+02:00",
+  "LastVersion": 2
+}

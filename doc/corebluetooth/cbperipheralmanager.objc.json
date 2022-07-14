@@ -1,0 +1,118 @@
+{
+  "Path": "/documentation/corebluetooth/cbperipheralmanager?language=objc",
+  "Title": "CBPeripheralManager",
+  "Type": "Class",
+  "Description": "",
+  "Declaration": "@interface CBPeripheralManager : CBManager",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": [
+    {
+      "Section": "Initializing a Peripheral Manager",
+      "Name": "- init",
+      "Path": "/documentation/corebluetooth/cbperipheralmanager/1648153-init?language=objc"
+    },
+    {
+      "Section": "Initializing a Peripheral Manager",
+      "Name": "- initWithDelegate:queue:",
+      "Path": "/documentation/corebluetooth/cbperipheralmanager/1393299-initwithdelegate?language=objc"
+    },
+    {
+      "Section": "Initializing a Peripheral Manager",
+      "Name": "- initWithDelegate:queue:options:",
+      "Path": "/documentation/corebluetooth/cbperipheralmanager/1393295-initwithdelegate?language=objc"
+    },
+    {
+      "Section": "Initializing a Peripheral Manager",
+      "Name": "delegate",
+      "Path": "/documentation/corebluetooth/cbperipheralmanager/1393313-delegate?language=objc"
+    },
+    {
+      "Section": "Initializing a Peripheral Manager",
+      "Name": "Peripheral Manager Initialization Options",
+      "Path": "/documentation/corebluetooth/cbperipheralmanager/peripheral_manager_initialization_options?language=objc"
+    },
+    {
+      "Section": "Monitoring the State of a Peripheral Manager",
+      "Name": "+ authorizationStatus",
+      "Path": "/documentation/corebluetooth/cbperipheralmanager/1616317-authorizationstatus?language=objc"
+    },
+    {
+      "Section": "Monitoring the State of a Peripheral Manager",
+      "Name": "CBPeripheralManagerAuthorizationStatus",
+      "Path": "/documentation/corebluetooth/cbperipheralmanagerauthorizationstatus?language=objc"
+    },
+    {
+      "Section": "Monitoring the State of a Peripheral Manager",
+      "Name": "CBPeripheralManagerState",
+      "Path": "/documentation/corebluetooth/cbperipheralmanagerstate?language=objc"
+    },
+    {
+      "Section": "Adding and Removing Services",
+      "Name": "- addService:",
+      "Path": "/documentation/corebluetooth/cbperipheralmanager/1393255-addservice?language=objc"
+    },
+    {
+      "Section": "Adding and Removing Services",
+      "Name": "- removeService:",
+      "Path": "/documentation/corebluetooth/cbperipheralmanager/1393287-removeservice?language=objc"
+    },
+    {
+      "Section": "Adding and Removing Services",
+      "Name": "- removeAllServices",
+      "Path": "/documentation/corebluetooth/cbperipheralmanager/1393269-removeallservices?language=objc"
+    },
+    {
+      "Section": "Managing Advertising",
+      "Name": "- startAdvertising:",
+      "Path": "/documentation/corebluetooth/cbperipheralmanager/1393252-startadvertising?language=objc"
+    },
+    {
+      "Section": "Managing Advertising",
+      "Name": "Advertising Data",
+      "Path": "/documentation/corebluetooth/cbperipheralmanager/advertising_data?language=objc"
+    },
+    {
+      "Section": "Managing Advertising",
+      "Name": "- stopAdvertising",
+      "Path": "/documentation/corebluetooth/cbperipheralmanager/1393275-stopadvertising?language=objc"
+    },
+    {
+      "Section": "Managing Advertising",
+      "Name": "isAdvertising",
+      "Path": "/documentation/corebluetooth/cbperipheralmanager/1393291-isadvertising?language=objc"
+    },
+    {
+      "Section": "Sending Updates of a Characteristic’s Value",
+      "Name": "- updateValue:forCharacteristic:onSubscribedCentrals:",
+      "Path": "/documentation/corebluetooth/cbperipheralmanager/1393281-updatevalue?language=objc"
+    },
+    {
+      "Section": "Responding to Read and Write Requests",
+      "Name": "- respondToRequest:withResult:",
+      "Path": "/documentation/corebluetooth/cbperipheralmanager/1393293-respondtorequest?language=objc"
+    },
+    {
+      "Section": "Setting Connection Latency",
+      "Name": "- setDesiredConnectionLatency:forCentral:",
+      "Path": "/documentation/corebluetooth/cbperipheralmanager/1393277-setdesiredconnectionlatency?language=objc"
+    },
+    {
+      "Section": "Setting Connection Latency",
+      "Name": "CBPeripheralManagerConnectionLatency",
+      "Path": "/documentation/corebluetooth/cbperipheralmanagerconnectionlatency?language=objc"
+    },
+    {
+      "Section": "Using L2CAP Channels",
+      "Name": "- publishL2CAPChannelWithEncryption:",
+      "Path": "/documentation/corebluetooth/cbperipheralmanager/2880160-publishl2capchannelwithencryptio?language=objc"
+    },
+    {
+      "Section": "Using L2CAP Channels",
+      "Name": "- unpublishL2CAPChannel:",
+      "Path": "/documentation/corebluetooth/cbperipheralmanager/2880158-unpublishl2capchannel?language=objc"
+    }
+  ],
+  "LastFetch": "2022-07-14T23:32:12.981196708+02:00",
+  "LastVersion": 2
+}

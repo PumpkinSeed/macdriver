@@ -1,0 +1,18 @@
+{
+  "Path": "/documentation/corebluetooth/cbpeer?language=objc",
+  "Title": "CBPeer",
+  "Type": "Class",
+  "Description": "",
+  "Declaration": "@interface CBPeer : NSObject",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": [
+    {
+      "Section": "Identifying a Peer",
+      "Name": "identifier",
+      "Path": "/documentation/corebluetooth/cbpeer/1620687-identifier?language=objc"
+    }
+  ],
+  "LastFetch": "2022-07-14T23:33:28.745021013+02:00",
+  "LastVersion": 2
+}

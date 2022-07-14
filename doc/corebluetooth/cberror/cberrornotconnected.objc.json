@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cberror/cberrornotconnected?language=objc",
+  "Title": "CBErrorNotConnected",
+  "Type": "Enumeration Case",
+  "Description": "",
+  "Declaration": "CBErrorNotConnected = 3",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:33:45.402445193+02:00",
+  "LastVersion": 2
+}

@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbperipheral/1518706-discoverservices?language=objc",
+  "Title": "discoverServices:",
+  "Type": "Instance Method",
+  "Description": "",
+  "Declaration": "- (void)discoverServices:(NSArray\u003cCBUUID *\u003e *)serviceUUIDs;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:31:52.056398162+02:00",
+  "LastVersion": 2
+}

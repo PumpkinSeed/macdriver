@@ -1,0 +1,23 @@
+{
+  "Path": "/documentation/corebluetooth/cbconnectionevent?language=objc",
+  "Title": "CBConnectionEvent",
+  "Type": "Enumeration",
+  "Description": "",
+  "Declaration": "typedef enum CBConnectionEvent : NSInteger {\n    ...\n} CBConnectionEvent;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": [
+    {
+      "Section": "Events",
+      "Name": "CBConnectionEventPeerConnected",
+      "Path": "/documentation/corebluetooth/cbconnectionevent/cbconnectioneventpeerconnected?language=objc"
+    },
+    {
+      "Section": "Events",
+      "Name": "CBConnectionEventPeerDisconnected",
+      "Path": "/documentation/corebluetooth/cbconnectionevent/cbconnectioneventpeerdisconnected?language=objc"
+    }
+  ],
+  "LastFetch": "2022-07-14T23:31:38.293230043+02:00",
+  "LastVersion": 2
+}

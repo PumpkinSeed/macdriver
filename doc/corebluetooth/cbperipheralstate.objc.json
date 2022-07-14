@@ -1,0 +1,33 @@
+{
+  "Path": "/documentation/corebluetooth/cbperipheralstate?language=objc",
+  "Title": "CBPeripheralState",
+  "Type": "Enumeration",
+  "Description": "",
+  "Declaration": "typedef enum CBPeripheralState : NSInteger {\n    ...\n} CBPeripheralState;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": [
+    {
+      "Section": "Peripheral States",
+      "Name": "CBPeripheralStateDisconnected",
+      "Path": "/documentation/corebluetooth/cbperipheralstate/cbperipheralstatedisconnected?language=objc"
+    },
+    {
+      "Section": "Peripheral States",
+      "Name": "CBPeripheralStateConnecting",
+      "Path": "/documentation/corebluetooth/cbperipheralstate/cbperipheralstateconnecting?language=objc"
+    },
+    {
+      "Section": "Peripheral States",
+      "Name": "CBPeripheralStateConnected",
+      "Path": "/documentation/corebluetooth/cbperipheralstate/cbperipheralstateconnected?language=objc"
+    },
+    {
+      "Section": "Peripheral States",
+      "Name": "CBPeripheralStateDisconnecting",
+      "Path": "/documentation/corebluetooth/cbperipheralstate/cbperipheralstatedisconnecting?language=objc"
+    }
+  ],
+  "LastFetch": "2022-07-14T23:31:55.812910194+02:00",
+  "LastVersion": 2
+}

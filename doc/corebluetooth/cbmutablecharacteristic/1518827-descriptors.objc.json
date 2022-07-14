@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbmutablecharacteristic/1518827-descriptors?language=objc",
+  "Title": "descriptors",
+  "Type": "Instance Property",
+  "Description": "",
+  "Declaration": "@property(retain, readwrite, nullable) NSArray\u003cCBDescriptor *\u003e *descriptors;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:33:05.216424908+02:00",
+  "LastVersion": 2
+}

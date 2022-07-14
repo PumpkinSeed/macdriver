@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbperipheralmanagerdelegate/1393279-peripheralmanager?language=objc",
+  "Title": "peripheralManager:didAddService:error:",
+  "Type": "Instance Method",
+  "Description": "",
+  "Declaration": "- (void)peripheralManager:(CBPeripheralManager *)peripheral \n            didAddService:(CBService *)service \n                    error:(NSError *)error;\n",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:32:27.129936612+02:00",
+  "LastVersion": 2
+}

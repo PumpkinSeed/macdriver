@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbperipheral/1620312-maximumwritevaluelengthfortype?language=objc",
+  "Title": "maximumWriteValueLengthForType:",
+  "Type": "Instance Method",
+  "Description": "",
+  "Declaration": "- (NSUInteger)maximumWriteValueLengthForType:(CBCharacteristicWriteType)type;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:31:55.472972388+02:00",
+  "LastVersion": 2
+}

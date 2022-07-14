@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbcentralmanagerdelegate/1518937-centralmanager?language=objc",
+  "Title": "centralManager:didDiscoverPeripheral:advertisementData:RSSI:",
+  "Type": "Instance Method",
+  "Description": "",
+  "Declaration": "- (void)centralManager:(CBCentralManager *)central \n didDiscoverPeripheral:(CBPeripheral *)peripheral \n     advertisementData:(NSDictionary\u003cNSString *,id\u003e *)advertisementData \n                  RSSI:(NSNumber *)RSSI;\n",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:31:43.503108715+02:00",
+  "LastVersion": 2
+}

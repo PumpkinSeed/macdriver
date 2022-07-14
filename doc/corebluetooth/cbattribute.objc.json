@@ -1,0 +1,18 @@
+{
+  "Path": "/documentation/corebluetooth/cbattribute?language=objc",
+  "Title": "CBAttribute",
+  "Type": "Class",
+  "Description": "",
+  "Declaration": "@interface CBAttribute : NSObject",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": [
+    {
+      "Section": "Identifying an Attribute",
+      "Name": "UUID",
+      "Path": "/documentation/corebluetooth/cbattribute/1620638-uuid?language=objc"
+    }
+  ],
+  "LastFetch": "2022-07-14T23:32:34.635578747+02:00",
+  "LastVersion": 2
+}

@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cberror/cberrorunknown?language=objc",
+  "Title": "CBErrorUnknown",
+  "Type": "Enumeration Case",
+  "Description": "",
+  "Declaration": "CBErrorUnknown = 0",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:33:45.402434549+02:00",
+  "LastVersion": 2
+}

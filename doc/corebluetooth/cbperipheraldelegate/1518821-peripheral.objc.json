@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbperipheraldelegate/1518821-peripheral?language=objc",
+  "Title": "peripheral:didDiscoverCharacteristicsForService:error:",
+  "Type": "Instance Method",
+  "Description": "",
+  "Declaration": "- (void)peripheral:(CBPeripheral *)peripheral \ndidDiscoverCharacteristicsForService:(CBService *)service \n             error:(NSError *)error;\n",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:32:05.846361137+02:00",
+  "LastVersion": 2
+}

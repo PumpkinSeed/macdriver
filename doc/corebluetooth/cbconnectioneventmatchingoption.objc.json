@@ -1,0 +1,23 @@
+{
+  "Path": "/documentation/corebluetooth/cbconnectioneventmatchingoption?language=objc",
+  "Title": "CBConnectionEventMatchingOption",
+  "Type": "Type Alias",
+  "Description": "",
+  "Declaration": "typedef NSString *CBConnectionEventMatchingOption;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": [
+    {
+      "Section": "Matching Options",
+      "Name": "CBConnectionEventMatchingOptionPeripheralUUIDs",
+      "Path": "/documentation/corebluetooth/cbconnectioneventmatchingoptionperipheraluuids?language=objc"
+    },
+    {
+      "Section": "Matching Options",
+      "Name": "CBConnectionEventMatchingOptionServiceUUIDs",
+      "Path": "/documentation/corebluetooth/cbconnectioneventmatchingoptionserviceuuids?language=objc"
+    }
+  ],
+  "LastFetch": "2022-07-14T23:31:38.530380714+02:00",
+  "LastVersion": 2
+}

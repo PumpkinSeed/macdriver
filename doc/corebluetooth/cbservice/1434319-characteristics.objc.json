@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbservice/1434319-characteristics?language=objc",
+  "Title": "characteristics",
+  "Type": "Instance Property",
+  "Description": "",
+  "Declaration": "@property(retain, readonly, nullable) NSArray\u003cCBCharacteristic *\u003e *characteristics;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:32:47.993415067+02:00",
+  "LastVersion": 2
+}

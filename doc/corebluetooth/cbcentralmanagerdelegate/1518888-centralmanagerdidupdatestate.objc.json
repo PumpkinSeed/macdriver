@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbcentralmanagerdelegate/1518888-centralmanagerdidupdatestate?language=objc",
+  "Title": "centralManagerDidUpdateState:",
+  "Type": "Instance Method",
+  "Description": "",
+  "Declaration": "- (void)centralManagerDidUpdateState:(CBCentralManager *)central;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:31:43.503116421+02:00",
+  "LastVersion": 2
+}

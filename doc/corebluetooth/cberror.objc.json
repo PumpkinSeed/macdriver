@@ -1,0 +1,113 @@
+{
+  "Path": "/documentation/corebluetooth/cberror?language=objc",
+  "Title": "CBError",
+  "Type": "Enumeration",
+  "Description": "",
+  "Declaration": "typedef enum CBError : NSInteger {\n    ...\n} CBError;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": [
+    {
+      "Section": "Error Codes",
+      "Name": "CBErrorUnknown",
+      "Path": "/documentation/corebluetooth/cberror/cberrorunknown?language=objc"
+    },
+    {
+      "Section": "Error Codes",
+      "Name": "CBErrorInvalidParameters",
+      "Path": "/documentation/corebluetooth/cberror/cberrorinvalidparameters?language=objc"
+    },
+    {
+      "Section": "Error Codes",
+      "Name": "CBErrorInvalidHandle",
+      "Path": "/documentation/corebluetooth/cberror/cberrorinvalidhandle?language=objc"
+    },
+    {
+      "Section": "Error Codes",
+      "Name": "CBErrorNotConnected",
+      "Path": "/documentation/corebluetooth/cberror/cberrornotconnected?language=objc"
+    },
+    {
+      "Section": "Error Codes",
+      "Name": "CBErrorOutOfSpace",
+      "Path": "/documentation/corebluetooth/cberror/cberroroutofspace?language=objc"
+    },
+    {
+      "Section": "Error Codes",
+      "Name": "CBErrorOperationCancelled",
+      "Path": "/documentation/corebluetooth/cberror/cberroroperationcancelled?language=objc"
+    },
+    {
+      "Section": "Error Codes",
+      "Name": "CBErrorConnectionTimeout",
+      "Path": "/documentation/corebluetooth/cberror/cberrorconnectiontimeout?language=objc"
+    },
+    {
+      "Section": "Error Codes",
+      "Name": "CBErrorPeripheralDisconnected",
+      "Path": "/documentation/corebluetooth/cberror/cberrorperipheraldisconnected?language=objc"
+    },
+    {
+      "Section": "Error Codes",
+      "Name": "CBErrorUUIDNotAllowed",
+      "Path": "/documentation/corebluetooth/cberror/cberroruuidnotallowed?language=objc"
+    },
+    {
+      "Section": "Error Codes",
+      "Name": "CBErrorAlreadyAdvertising",
+      "Path": "/documentation/corebluetooth/cberror/cberroralreadyadvertising?language=objc"
+    },
+    {
+      "Section": "Error Codes",
+      "Name": "CBErrorConnectionFailed",
+      "Path": "/documentation/corebluetooth/cberror/cberrorconnectionfailed?language=objc"
+    },
+    {
+      "Section": "Error Codes",
+      "Name": "CBErrorConnectionLimitReached",
+      "Path": "/documentation/corebluetooth/cberror/cberrorconnectionlimitreached?language=objc"
+    },
+    {
+      "Section": "Error Codes",
+      "Name": "CBErrorOperationNotSupported",
+      "Path": "/documentation/corebluetooth/cberror/cberroroperationnotsupported?language=objc"
+    },
+    {
+      "Section": "Error Codes",
+      "Name": "CBErrorUnknownDevice",
+      "Path": "/documentation/corebluetooth/cberror/cberrorunknowndevice?language=objc"
+    },
+    {
+      "Section": "Error Codes",
+      "Name": "CBErrorUnkownDevice",
+      "Path": "/documentation/corebluetooth/cberror/cberrorunkowndevice?language=objc"
+    },
+    {
+      "Section": "Enumeration Cases",
+      "Name": "CBErrorEncryptionTimedOut",
+      "Path": "/documentation/corebluetooth/cberror/cberrorencryptiontimedout?language=objc"
+    },
+    {
+      "Section": "Enumeration Cases",
+      "Name": "CBErrorLeGattExceededBackgroundNotificationLimit",
+      "Path": "/documentation/corebluetooth/cberror/cberrorlegattexceededbackgroundnotificationlimit?language=objc"
+    },
+    {
+      "Section": "Enumeration Cases",
+      "Name": "CBErrorLeGattNearBackgroundNotificationLimit",
+      "Path": "/documentation/corebluetooth/cberror/cberrorlegattnearbackgroundnotificationlimit?language=objc"
+    },
+    {
+      "Section": "Enumeration Cases",
+      "Name": "CBErrorPeerRemovedPairingInformation",
+      "Path": "/documentation/corebluetooth/cberror/cberrorpeerremovedpairinginformation?language=objc"
+    },
+    {
+      "Section": "Enumeration Cases",
+      "Name": "CBErrorTooManyLEPairedDevices",
+      "Path": "/documentation/corebluetooth/cberror/cberrortoomanylepaireddevices?language=objc"
+    }
+  ],
+  "LastFetch": "2022-07-14T23:33:42.862297136+02:00",
+  "LastVersion": 2
+}

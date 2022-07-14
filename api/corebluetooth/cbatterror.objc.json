@@ -1,0 +1,141 @@
+{
+  "Enum": {
+    "Name": "CBATTError",
+    "Declaration": "typedef enum CBATTError : NSInteger {\n    ...\n} CBATTError;",
+    "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbatterror?language=objc",
+    "Type": {
+      "Name": "NSInteger"
+    },
+    "Cases": [
+      {
+        "Name": "CBATTErrorSuccess",
+        "Declaration": "CBATTErrorSuccess = 0x00",
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbatterror/cbatterrorsuccess?language=objc",
+        "Type": {},
+        "Value": "0x00"
+      },
+      {
+        "Name": "CBATTErrorInvalidHandle",
+        "Declaration": "CBATTErrorInvalidHandle = 0x01",
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbatterror/cbatterrorinvalidhandle?language=objc",
+        "Type": {},
+        "Value": "0x01"
+      },
+      {
+        "Name": "CBATTErrorReadNotPermitted",
+        "Declaration": "CBATTErrorReadNotPermitted = 0x02",
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbatterror/cbatterrorreadnotpermitted?language=objc",
+        "Type": {},
+        "Value": "0x02"
+      },
+      {
+        "Name": "CBATTErrorWriteNotPermitted",
+        "Declaration": "CBATTErrorWriteNotPermitted = 0x03",
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbatterror/cbatterrorwritenotpermitted?language=objc",
+        "Type": {},
+        "Value": "0x03"
+      },
+      {
+        "Name": "CBATTErrorInvalidPdu",
+        "Declaration": "CBATTErrorInvalidPdu = 0x04",
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbatterror/cbatterrorinvalidpdu?language=objc",
+        "Type": {},
+        "Value": "0x04"
+      },
+      {
+        "Name": "CBATTErrorInsufficientAuthentication",
+        "Declaration": "CBATTErrorInsufficientAuthentication = 0x05",
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbatterror/cbatterrorinsufficientauthentication?language=objc",
+        "Type": {},
+        "Value": "0x05"
+      },
+      {
+        "Name": "CBATTErrorRequestNotSupported",
+        "Declaration": "CBATTErrorRequestNotSupported = 0x06",
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbatterror/cbatterrorrequestnotsupported?language=objc",
+        "Type": {},
+        "Value": "0x06"
+      },
+      {
+        "Name": "CBATTErrorInvalidOffset",
+        "Declaration": "CBATTErrorInvalidOffset = 0x07",
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbatterror/cbatterrorinvalidoffset?language=objc",
+        "Type": {},
+        "Value": "0x07"
+      },
+      {
+        "Name": "CBATTErrorInsufficientAuthorization",
+        "Declaration": "CBATTErrorInsufficientAuthorization = 0x08",
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbatterror/cbatterrorinsufficientauthorization?language=objc",
+        "Type": {},
+        "Value": "0x08"
+      },
+      {
+        "Name": "CBATTErrorPrepareQueueFull",
+        "Declaration": "CBATTErrorPrepareQueueFull = 0x09",
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbatterror/cbatterrorpreparequeuefull?language=objc",
+        "Type": {},
+        "Value": "0x09"
+      },
+      {
+        "Name": "CBATTErrorAttributeNotFound",
+        "Declaration": "CBATTErrorAttributeNotFound = 0x0A",
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbatterror/cbatterrorattributenotfound?language=objc",
+        "Type": {},
+        "Value": "0x0A"
+      },
+      {
+        "Name": "CBATTErrorAttributeNotLong",
+        "Declaration": "CBATTErrorAttributeNotLong = 0x0B",
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbatterror/cbatterrorattributenotlong?language=objc",
+        "Type": {},
+        "Value": "0x0B"
+      },
+      {
+        "Name": "CBATTErrorInsufficientEncryptionKeySize",
+        "Declaration": "CBATTErrorInsufficientEncryptionKeySize = 0x0C",
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbatterror/cbatterrorinsufficientencryptionkeysize?language=objc",
+        "Type": {},
+        "Value": "0x0C"
+      },
+      {
+        "Name": "CBATTErrorInvalidAttributeValueLength",
+        "Declaration": "CBATTErrorInvalidAttributeValueLength = 0x0D",
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbatterror/cbatterrorinvalidattributevaluelength?language=objc",
+        "Type": {},
+        "Value": "0x0D"
+      },
+      {
+        "Name": "CBATTErrorUnlikelyError",
+        "Declaration": "CBATTErrorUnlikelyError = 0x0E",
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbatterror/cbatterrorunlikelyerror?language=objc",
+        "Type": {},
+        "Value": "0x0E"
+      },
+      {
+        "Name": "CBATTErrorInsufficientEncryption",
+        "Declaration": "CBATTErrorInsufficientEncryption = 0x0F",
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbatterror/cbatterrorinsufficientencryption?language=objc",
+        "Type": {},
+        "Value": "0x0F"
+      },
+      {
+        "Name": "CBATTErrorUnsupportedGroupType",
+        "Declaration": "CBATTErrorUnsupportedGroupType = 0x10",
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbatterror/cbatterrorunsupportedgrouptype?language=objc",
+        "Type": {},
+        "Value": "0x10"
+      },
+      {
+        "Name": "CBATTErrorInsufficientResources",
+        "Declaration": "CBATTErrorInsufficientResources = 0x11",
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbatterror/cbatterrorinsufficientresources?language=objc",
+        "Type": {},
+        "Value": "0x11"
+      }
+    ]
+  },
+  "Kind": "enum",
+  "PullDate": "2022-07-14T23:33:58.427011632+02:00",
+  "Version": 2
+}

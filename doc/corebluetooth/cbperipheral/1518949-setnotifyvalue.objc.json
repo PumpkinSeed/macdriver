@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbperipheral/1518949-setnotifyvalue?language=objc",
+  "Title": "setNotifyValue:forCharacteristic:",
+  "Type": "Instance Method",
+  "Description": "",
+  "Declaration": "- (void)setNotifyValue:(BOOL)enabled \n     forCharacteristic:(CBCharacteristic *)characteristic;\n",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:31:55.69321928+02:00",
+  "LastVersion": 2
+}

@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbatterror/cbatterrorunsupportedgrouptype?language=objc",
+  "Title": "CBATTErrorUnsupportedGroupType",
+  "Type": "Enumeration Case",
+  "Description": "",
+  "Declaration": "CBATTErrorUnsupportedGroupType = 0x10",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:34:07.020950754+02:00",
+  "LastVersion": 2
+}

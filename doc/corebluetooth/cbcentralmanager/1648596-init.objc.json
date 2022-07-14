@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbcentralmanager/1648596-init?language=objc",
+  "Title": "init",
+  "Type": "Instance Method",
+  "Description": "",
+  "Declaration": "- (instancetype)init;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:31:31.840296483+02:00",
+  "LastVersion": 2
+}

@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbcentralmanager/1518766-connectperipheral?language=objc",
+  "Title": "connectPeripheral:options:",
+  "Type": "Instance Method",
+  "Description": "",
+  "Declaration": "- (void)connectPeripheral:(CBPeripheral *)peripheral \n                  options:(NSDictionary\u003cNSString *,id\u003e *)options;\n",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:31:31.840568748+02:00",
+  "LastVersion": 2
+}

@@ -1,0 +1,23 @@
+{
+  "Path": "/documentation/corebluetooth/cbcharacteristicwritetype?language=objc",
+  "Title": "CBCharacteristicWriteType",
+  "Type": "Enumeration",
+  "Description": "",
+  "Declaration": "typedef enum CBCharacteristicWriteType : NSInteger {\n    ...\n} CBCharacteristicWriteType;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": [
+    {
+      "Section": "Write Types",
+      "Name": "CBCharacteristicWriteWithResponse",
+      "Path": "/documentation/corebluetooth/cbcharacteristicwritetype/cbcharacteristicwritewithresponse?language=objc"
+    },
+    {
+      "Section": "Write Types",
+      "Name": "CBCharacteristicWriteWithoutResponse",
+      "Path": "/documentation/corebluetooth/cbcharacteristicwritetype/cbcharacteristicwritewithoutresponse?language=objc"
+    }
+  ],
+  "LastFetch": "2022-07-14T23:31:55.525996437+02:00",
+  "LastVersion": 2
+}

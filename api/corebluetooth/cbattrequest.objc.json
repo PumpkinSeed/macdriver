@@ -1,0 +1,68 @@
+{
+  "Class": {
+    "Name": "CBATTRequest",
+    "Declaration": "@interface CBATTRequest : NSObject",
+    "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbattrequest?language=objc",
+    "InstanceProperties": [
+      {
+        "Name": "central",
+        "Description": "",
+        "Declaration": "@property(readonly, nonatomic) CBCentral *central;",
+        "Type": {
+          "Name": "CBCentral",
+          "IsPtr": true
+        },
+        "Attrs": {
+          "nonatomic": true,
+          "readonly": true
+        },
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbattrequest/1518995-central?language=objc"
+      },
+      {
+        "Name": "characteristic",
+        "Description": "",
+        "Declaration": "@property(readonly, nonatomic) CBCharacteristic *characteristic;",
+        "Type": {
+          "Name": "CBCharacteristic",
+          "IsPtr": true
+        },
+        "Attrs": {
+          "nonatomic": true,
+          "readonly": true
+        },
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbattrequest/1518716-characteristic?language=objc"
+      },
+      {
+        "Name": "value",
+        "Description": "",
+        "Declaration": "@property(readwrite, copy, nullable) NSData *value;",
+        "Type": {
+          "Name": "NSData",
+          "IsPtr": true
+        },
+        "Attrs": {
+          "copy": true,
+          "nullable": true,
+          "readwrite": true
+        },
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbattrequest/1518795-value?language=objc"
+      },
+      {
+        "Name": "offset",
+        "Description": "",
+        "Declaration": "@property(readonly, nonatomic) NSUInteger offset;",
+        "Type": {
+          "Name": "NSUInteger"
+        },
+        "Attrs": {
+          "nonatomic": true,
+          "readonly": true
+        },
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbattrequest/1518857-offset?language=objc"
+      }
+    ]
+  },
+  "Kind": "class",
+  "PullDate": "2022-07-14T23:33:23.129438364+02:00",
+  "Version": 2
+}

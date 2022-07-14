@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbatterror/cbatterrorrequestnotsupported?language=objc",
+  "Title": "CBATTErrorRequestNotSupported",
+  "Type": "Enumeration Case",
+  "Description": "",
+  "Declaration": "CBATTErrorRequestNotSupported = 0x06",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:34:00.642821549+02:00",
+  "LastVersion": 2
+}

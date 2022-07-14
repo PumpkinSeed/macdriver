@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbperipheral/1518759-readvalueforcharacteristic?language=objc",
+  "Title": "readValueForCharacteristic:",
+  "Type": "Instance Method",
+  "Description": "",
+  "Declaration": "- (void)readValueForCharacteristic:(CBCharacteristic *)characteristic;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:31:52.056288181+02:00",
+  "LastVersion": 2
+}

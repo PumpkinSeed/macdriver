@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cberror/cberrorconnectionlimitreached?language=objc",
+  "Title": "CBErrorConnectionLimitReached",
+  "Type": "Enumeration Case",
+  "Description": "",
+  "Declaration": "CBErrorConnectionLimitReached = 11",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:33:48.725868048+02:00",
+  "LastVersion": 2
+}

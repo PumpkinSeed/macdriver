@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbperipheralmanager/1393275-stopadvertising?language=objc",
+  "Title": "stopAdvertising",
+  "Type": "Instance Method",
+  "Description": "",
+  "Declaration": "- (void)stopAdvertising;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:32:18.932351807+02:00",
+  "LastVersion": 2
+}

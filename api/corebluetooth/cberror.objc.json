@@ -1,0 +1,155 @@
+{
+  "Enum": {
+    "Name": "CBError",
+    "Declaration": "typedef enum CBError : NSInteger {\n    ...\n} CBError;",
+    "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cberror?language=objc",
+    "Type": {
+      "Name": "NSInteger"
+    },
+    "Cases": [
+      {
+        "Name": "CBErrorUnknown",
+        "Declaration": "CBErrorUnknown = 0",
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cberror/cberrorunknown?language=objc",
+        "Type": {},
+        "Value": "0"
+      },
+      {
+        "Name": "CBErrorInvalidParameters",
+        "Declaration": "CBErrorInvalidParameters = 1",
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cberror/cberrorinvalidparameters?language=objc",
+        "Type": {},
+        "Value": "1"
+      },
+      {
+        "Name": "CBErrorInvalidHandle",
+        "Declaration": "CBErrorInvalidHandle = 2",
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cberror/cberrorinvalidhandle?language=objc",
+        "Type": {},
+        "Value": "2"
+      },
+      {
+        "Name": "CBErrorNotConnected",
+        "Declaration": "CBErrorNotConnected = 3",
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cberror/cberrornotconnected?language=objc",
+        "Type": {},
+        "Value": "3"
+      },
+      {
+        "Name": "CBErrorOutOfSpace",
+        "Declaration": "CBErrorOutOfSpace = 4",
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cberror/cberroroutofspace?language=objc",
+        "Type": {},
+        "Value": "4"
+      },
+      {
+        "Name": "CBErrorOperationCancelled",
+        "Declaration": "CBErrorOperationCancelled = 5",
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cberror/cberroroperationcancelled?language=objc",
+        "Type": {},
+        "Value": "5"
+      },
+      {
+        "Name": "CBErrorConnectionTimeout",
+        "Declaration": "CBErrorConnectionTimeout = 6",
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cberror/cberrorconnectiontimeout?language=objc",
+        "Type": {},
+        "Value": "6"
+      },
+      {
+        "Name": "CBErrorPeripheralDisconnected",
+        "Declaration": "CBErrorPeripheralDisconnected = 7",
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cberror/cberrorperipheraldisconnected?language=objc",
+        "Type": {},
+        "Value": "7"
+      },
+      {
+        "Name": "CBErrorUUIDNotAllowed",
+        "Declaration": "CBErrorUUIDNotAllowed = 8",
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cberror/cberroruuidnotallowed?language=objc",
+        "Type": {},
+        "Value": "8"
+      },
+      {
+        "Name": "CBErrorAlreadyAdvertising",
+        "Declaration": "CBErrorAlreadyAdvertising = 9",
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cberror/cberroralreadyadvertising?language=objc",
+        "Type": {},
+        "Value": "9"
+      },
+      {
+        "Name": "CBErrorConnectionFailed",
+        "Declaration": "CBErrorConnectionFailed = 10",
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cberror/cberrorconnectionfailed?language=objc",
+        "Type": {},
+        "Value": "10"
+      },
+      {
+        "Name": "CBErrorConnectionLimitReached",
+        "Declaration": "CBErrorConnectionLimitReached = 11",
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cberror/cberrorconnectionlimitreached?language=objc",
+        "Type": {},
+        "Value": "11"
+      },
+      {
+        "Name": "CBErrorOperationNotSupported",
+        "Declaration": "CBErrorOperationNotSupported = 13",
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cberror/cberroroperationnotsupported?language=objc",
+        "Type": {},
+        "Value": "13"
+      },
+      {
+        "Name": "CBErrorUnknownDevice",
+        "Declaration": "CBErrorUnknownDevice = 12",
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cberror/cberrorunknowndevice?language=objc",
+        "Type": {},
+        "Value": "12"
+      },
+      {
+        "Name": "CBErrorUnkownDevice",
+        "Declaration": "CBErrorUnkownDevice = 12",
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cberror/cberrorunkowndevice?language=objc",
+        "Type": {},
+        "Value": "12"
+      },
+      {
+        "Name": "CBErrorEncryptionTimedOut",
+        "Declaration": "CBErrorEncryptionTimedOut = 15",
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cberror/cberrorencryptiontimedout?language=objc",
+        "Type": {},
+        "Value": "15"
+      },
+      {
+        "Name": "CBErrorLeGattExceededBackgroundNotificationLimit",
+        "Declaration": "CBErrorLeGattExceededBackgroundNotificationLimit = 17",
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cberror/cberrorlegattexceededbackgroundnotificationlimit?language=objc",
+        "Type": {},
+        "Value": "17"
+      },
+      {
+        "Name": "CBErrorLeGattNearBackgroundNotificationLimit",
+        "Declaration": "CBErrorLeGattNearBackgroundNotificationLimit = 18",
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cberror/cberrorlegattnearbackgroundnotificationlimit?language=objc",
+        "Type": {},
+        "Value": "18"
+      },
+      {
+        "Name": "CBErrorPeerRemovedPairingInformation",
+        "Declaration": "CBErrorPeerRemovedPairingInformation = 14",
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cberror/cberrorpeerremovedpairinginformation?language=objc",
+        "Type": {},
+        "Value": "14"
+      },
+      {
+        "Name": "CBErrorTooManyLEPairedDevices",
+        "Declaration": "CBErrorTooManyLEPairedDevices = 16",
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cberror/cberrortoomanylepaireddevices?language=objc",
+        "Type": {},
+        "Value": "16"
+      }
+    ]
+  },
+  "Kind": "enum",
+  "PullDate": "2022-07-14T23:33:42.862297136+02:00",
+  "Version": 2
+}

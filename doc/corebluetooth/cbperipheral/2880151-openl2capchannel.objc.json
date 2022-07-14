@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbperipheral/2880151-openl2capchannel?language=objc",
+  "Title": "openL2CAPChannel:",
+  "Type": "Instance Method",
+  "Description": "",
+  "Declaration": "- (void)openL2CAPChannel:(CBL2CAPPSM)PSM;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:31:58.519011419+02:00",
+  "LastVersion": 2
+}

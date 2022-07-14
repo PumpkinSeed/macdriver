@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbperipheraldelegate/1805265-peripheraldidinvalidateservices?language=objc",
+  "Title": "peripheralDidInvalidateServices:",
+  "Type": "Instance Method",
+  "Description": "",
+  "Declaration": "- (void)peripheralDidInvalidateServices:(CBPeripheral *)peripheral",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:32:09.449712681+02:00",
+  "LastVersion": 2
+}

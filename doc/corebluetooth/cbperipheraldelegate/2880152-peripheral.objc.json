@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbperipheraldelegate/2880152-peripheral?language=objc",
+  "Title": "peripheral:didOpenL2CAPChannel:error:",
+  "Type": "Instance Method",
+  "Description": "",
+  "Declaration": "- (void)peripheral:(CBPeripheral *)peripheral \ndidOpenL2CAPChannel:(CBL2CAPChannel *)channel \n             error:(NSError *)error;\n",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:32:09.529048786+02:00",
+  "LastVersion": 2
+}

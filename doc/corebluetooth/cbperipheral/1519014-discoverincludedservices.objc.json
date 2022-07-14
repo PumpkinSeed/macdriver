@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbperipheral/1519014-discoverincludedservices?language=objc",
+  "Title": "discoverIncludedServices:forService:",
+  "Type": "Instance Method",
+  "Description": "",
+  "Declaration": "- (void)discoverIncludedServices:(NSArray\u003cCBUUID *\u003e *)includedServiceUUIDs \n                      forService:(CBService *)service;\n",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:31:52.056323032+02:00",
+  "LastVersion": 2
+}

@@ -1,0 +1,93 @@
+{
+  "Path": "/documentation/corebluetooth/cbperipheraldelegate?language=objc",
+  "Title": "CBPeripheralDelegate",
+  "Type": "Protocol",
+  "Description": "",
+  "Declaration": "@protocol CBPeripheralDelegate",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": [
+    {
+      "Section": "Discovering Services",
+      "Name": "- peripheral:didDiscoverServices:",
+      "Path": "/documentation/corebluetooth/cbperipheraldelegate/1518744-peripheral?language=objc"
+    },
+    {
+      "Section": "Discovering Services",
+      "Name": "- peripheral:didDiscoverIncludedServicesForService:error:",
+      "Path": "/documentation/corebluetooth/cbperipheraldelegate/1519124-peripheral?language=objc"
+    },
+    {
+      "Section": "Discovering Characteristics and their Descriptors",
+      "Name": "- peripheral:didDiscoverCharacteristicsForService:error:",
+      "Path": "/documentation/corebluetooth/cbperipheraldelegate/1518821-peripheral?language=objc"
+    },
+    {
+      "Section": "Discovering Characteristics and their Descriptors",
+      "Name": "- peripheral:didDiscoverDescriptorsForCharacteristic:error:",
+      "Path": "/documentation/corebluetooth/cbperipheraldelegate/1518785-peripheral?language=objc"
+    },
+    {
+      "Section": "Retrieving Characteristic and Descriptor Values",
+      "Name": "- peripheral:didUpdateValueForCharacteristic:error:",
+      "Path": "/documentation/corebluetooth/cbperipheraldelegate/1518708-peripheral?language=objc"
+    },
+    {
+      "Section": "Retrieving Characteristic and Descriptor Values",
+      "Name": "- peripheral:didUpdateValueForDescriptor:error:",
+      "Path": "/documentation/corebluetooth/cbperipheraldelegate/1518929-peripheral?language=objc"
+    },
+    {
+      "Section": "Writing Characteristic and Descriptor Values",
+      "Name": "- peripheral:didWriteValueForCharacteristic:error:",
+      "Path": "/documentation/corebluetooth/cbperipheraldelegate/1518823-peripheral?language=objc"
+    },
+    {
+      "Section": "Writing Characteristic and Descriptor Values",
+      "Name": "- peripheral:didWriteValueForDescriptor:error:",
+      "Path": "/documentation/corebluetooth/cbperipheraldelegate/1519062-peripheral?language=objc"
+    },
+    {
+      "Section": "Writing Characteristic and Descriptor Values",
+      "Name": "- peripheralIsReadyToSendWriteWithoutResponse:",
+      "Path": "/documentation/corebluetooth/cbperipheraldelegate/2874034-peripheralisreadytosendwritewith?language=objc"
+    },
+    {
+      "Section": "Managing Notifications for a Characteristic’s Value",
+      "Name": "- peripheral:didUpdateNotificationStateForCharacteristic:error:",
+      "Path": "/documentation/corebluetooth/cbperipheraldelegate/1518768-peripheral?language=objc"
+    },
+    {
+      "Section": "Retrieving a Peripheral’s RSSI Data",
+      "Name": "- peripheral:didReadRSSI:error:",
+      "Path": "/documentation/corebluetooth/cbperipheraldelegate/1620304-peripheral?language=objc"
+    },
+    {
+      "Section": "Retrieving a Peripheral’s RSSI Data",
+      "Name": "- peripheralDidUpdateRSSI:error:",
+      "Path": "/documentation/corebluetooth/cbperipheraldelegate/1519083-peripheraldidupdaterssi?language=objc"
+    },
+    {
+      "Section": "Monitoring Changes to a Peripheral’s Name or Services",
+      "Name": "- peripheralDidUpdateName:",
+      "Path": "/documentation/corebluetooth/cbperipheraldelegate/1518801-peripheraldidupdatename?language=objc"
+    },
+    {
+      "Section": "Monitoring Changes to a Peripheral’s Name or Services",
+      "Name": "- peripheral:didModifyServices:",
+      "Path": "/documentation/corebluetooth/cbperipheraldelegate/1518865-peripheral?language=objc"
+    },
+    {
+      "Section": "Monitoring Changes to a Peripheral’s Name or Services",
+      "Name": "peripheralDidInvalidateServices:",
+      "Path": "/documentation/corebluetooth/cbperipheraldelegate/1805265-peripheraldidinvalidateservices?language=objc"
+    },
+    {
+      "Section": "Monitoring L2CAP Channels",
+      "Name": "- peripheral:didOpenL2CAPChannel:error:",
+      "Path": "/documentation/corebluetooth/cbperipheraldelegate/2880152-peripheral?language=objc"
+    }
+  ],
+  "LastFetch": "2022-07-14T23:32:03.07049478+02:00",
+  "LastVersion": 2
+}

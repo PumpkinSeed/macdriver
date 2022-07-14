@@ -1,0 +1,38 @@
+{
+  "Path": "/documentation/corebluetooth/cbmanager?language=objc",
+  "Title": "CBManager",
+  "Type": "Class",
+  "Description": "",
+  "Declaration": "@interface CBManager : NSObject",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": [
+    {
+      "Section": "Accessing the Manager’s Properties",
+      "Name": "state",
+      "Path": "/documentation/corebluetooth/cbmanager/1648600-state?language=objc"
+    },
+    {
+      "Section": "Accessing the Manager’s Properties",
+      "Name": "CBManagerState",
+      "Path": "/documentation/corebluetooth/cbmanagerstate?language=objc"
+    },
+    {
+      "Section": "Determining Authorization State",
+      "Name": "authorization",
+      "Path": "/documentation/corebluetooth/cbmanager/3377595-authorization?language=objc"
+    },
+    {
+      "Section": "Determining Authorization State",
+      "Name": "CBManagerAuthorization",
+      "Path": "/documentation/corebluetooth/cbmanagerauthorization?language=objc"
+    },
+    {
+      "Section": "Deprecated Properties",
+      "Name": "authorization",
+      "Path": "/documentation/corebluetooth/cbmanager/3180033-authorization?language=objc"
+    }
+  ],
+  "LastFetch": "2022-07-14T23:33:18.043448856+02:00",
+  "LastVersion": 2
+}

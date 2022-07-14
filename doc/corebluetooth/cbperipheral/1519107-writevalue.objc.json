@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbperipheral/1519107-writevalue?language=objc",
+  "Title": "writeValue:forDescriptor:",
+  "Type": "Instance Method",
+  "Description": "",
+  "Declaration": "- (void)writeValue:(NSData *)data \n     forDescriptor:(CBDescriptor *)descriptor;\n",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:31:55.338929465+02:00",
+  "LastVersion": 2
+}

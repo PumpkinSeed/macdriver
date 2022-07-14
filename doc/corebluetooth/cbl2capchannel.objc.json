@@ -1,0 +1,33 @@
+{
+  "Path": "/documentation/corebluetooth/cbl2capchannel?language=objc",
+  "Title": "CBL2CAPChannel",
+  "Type": "Class",
+  "Description": "",
+  "Declaration": "@interface CBL2CAPChannel : NSObject",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": [
+    {
+      "Section": "Accessing Streams",
+      "Name": "inputStream",
+      "Path": "/documentation/corebluetooth/cbl2capchannel/2880157-inputstream?language=objc"
+    },
+    {
+      "Section": "Accessing Streams",
+      "Name": "outputStream",
+      "Path": "/documentation/corebluetooth/cbl2capchannel/2880161-outputstream?language=objc"
+    },
+    {
+      "Section": "Accessing the Peer",
+      "Name": "peer",
+      "Path": "/documentation/corebluetooth/cbl2capchannel/2875145-peer?language=objc"
+    },
+    {
+      "Section": "Accessing the Protocol/Service Multiplexer",
+      "Name": "PSM",
+      "Path": "/documentation/corebluetooth/cbl2capchannel/2880159-psm?language=objc"
+    }
+  ],
+  "LastFetch": "2022-07-14T23:31:58.523343842+02:00",
+  "LastVersion": 2
+}

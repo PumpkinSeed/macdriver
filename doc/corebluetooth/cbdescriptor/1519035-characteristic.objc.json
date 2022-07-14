@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbdescriptor/1519035-characteristic?language=objc",
+  "Title": "characteristic",
+  "Type": "Instance Property",
+  "Description": "",
+  "Declaration": "@property(weak, readonly, nonatomic) CBCharacteristic *characteristic;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:33:10.339516268+02:00",
+  "LastVersion": 2
+}

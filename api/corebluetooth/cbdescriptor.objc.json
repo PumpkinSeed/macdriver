@@ -1,0 +1,41 @@
+{
+  "Class": {
+    "Name": "CBDescriptor",
+    "Declaration": "@interface CBDescriptor : CBAttribute",
+    "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbdescriptor?language=objc",
+    "InstanceProperties": [
+      {
+        "Name": "characteristic",
+        "Description": "",
+        "Declaration": "@property(weak, readonly, nonatomic) CBCharacteristic *characteristic;",
+        "Type": {
+          "Name": "CBCharacteristic",
+          "IsPtr": true
+        },
+        "Attrs": {
+          "nonatomic": true,
+          "readonly": true,
+          "weak": true
+        },
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbdescriptor/1519035-characteristic?language=objc"
+      },
+      {
+        "Name": "value",
+        "Description": "",
+        "Declaration": "@property(retain, readonly, nullable) id value;",
+        "Type": {
+          "Name": "id"
+        },
+        "Attrs": {
+          "nullable": true,
+          "readonly": true,
+          "retain": true
+        },
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbdescriptor/1518778-value?language=objc"
+      }
+    ]
+  },
+  "Kind": "class",
+  "PullDate": "2022-07-14T23:33:08.558407411+02:00",
+  "Version": 2
+}

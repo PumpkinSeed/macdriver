@@ -1,0 +1,23 @@
+{
+  "Path": "/documentation/corebluetooth/cbperipheralmanager/peripheral_manager_initialization_options?language=objc",
+  "Title": "Peripheral Manager Initialization Options",
+  "Type": "API Collection",
+  "Description": "",
+  "Declaration": "",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": [
+    {
+      "Section": "Initialization Options",
+      "Name": "CBPeripheralManagerOptionShowPowerAlertKey",
+      "Path": "/documentation/corebluetooth/cbperipheralmanageroptionshowpoweralertkey?language=objc"
+    },
+    {
+      "Section": "Initialization Options",
+      "Name": "CBPeripheralManagerOptionRestoreIdentifierKey",
+      "Path": "/documentation/corebluetooth/cbperipheralmanageroptionrestoreidentifierkey?language=objc"
+    }
+  ],
+  "LastFetch": "2022-07-14T23:32:15.760004406+02:00",
+  "LastVersion": 2
+}

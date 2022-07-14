@@ -1,0 +1,26 @@
+{
+  "Class": {
+    "Name": "CBPeer",
+    "Declaration": "@interface CBPeer : NSObject",
+    "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbpeer?language=objc",
+    "InstanceProperties": [
+      {
+        "Name": "identifier",
+        "Description": "",
+        "Declaration": "@property(readonly, nonatomic) NSUUID *identifier;",
+        "Type": {
+          "Name": "NSUUID",
+          "IsPtr": true
+        },
+        "Attrs": {
+          "nonatomic": true,
+          "readonly": true
+        },
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbpeer/1620687-identifier?language=objc"
+      }
+    ]
+  },
+  "Kind": "class",
+  "PullDate": "2022-07-14T23:33:28.745021013+02:00",
+  "Version": 2
+}

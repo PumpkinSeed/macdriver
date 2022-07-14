@@ -1,0 +1,43 @@
+{
+  "Enum": {
+    "Name": "CBAttributePermissions",
+    "Declaration": "typedef enum CBAttributePermissions : NSUInteger {\n    ...\n} CBAttributePermissions;",
+    "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbattributepermissions?language=objc",
+    "Type": {
+      "Name": "NSUInteger"
+    },
+    "Cases": [
+      {
+        "Name": "CBAttributePermissionsReadable",
+        "Declaration": "CBAttributePermissionsReadable = 0x01",
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbattributepermissions/cbattributepermissionsreadable?language=objc",
+        "Type": {},
+        "Value": "0x01"
+      },
+      {
+        "Name": "CBAttributePermissionsWriteable",
+        "Declaration": "CBAttributePermissionsWriteable = 0x02",
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbattributepermissions/cbattributepermissionswriteable?language=objc",
+        "Type": {},
+        "Value": "0x02"
+      },
+      {
+        "Name": "CBAttributePermissionsReadEncryptionRequired",
+        "Declaration": "CBAttributePermissionsReadEncryptionRequired = 0x04",
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbattributepermissions/cbattributepermissionsreadencryptionrequired?language=objc",
+        "Type": {},
+        "Value": "0x04"
+      },
+      {
+        "Name": "CBAttributePermissionsWriteEncryptionRequired",
+        "Declaration": "CBAttributePermissionsWriteEncryptionRequired = 0x08",
+        "TopicURL": "https://developer.apple.com/documentation/corebluetooth/cbattributepermissions/cbattributepermissionswriteencryptionrequired?language=objc",
+        "Type": {},
+        "Value": "0x08"
+      }
+    ]
+  },
+  "Kind": "enum",
+  "PullDate": "2022-07-14T23:32:39.969404256+02:00",
+  "Version": 2
+}

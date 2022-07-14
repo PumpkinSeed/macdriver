@@ -1,0 +1,23 @@
+{
+  "Path": "/documentation/corebluetooth/cbcentralmanager/central_manager_initialization_options?language=objc",
+  "Title": "Central Manager Initialization Options",
+  "Type": "API Collection",
+  "Description": "",
+  "Declaration": "",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": [
+    {
+      "Section": "Constants",
+      "Name": "CBCentralManagerOptionShowPowerAlertKey",
+      "Path": "/documentation/corebluetooth/cbcentralmanageroptionshowpoweralertkey?language=objc"
+    },
+    {
+      "Section": "Constants",
+      "Name": "CBCentralManagerOptionRestoreIdentifierKey",
+      "Path": "/documentation/corebluetooth/cbcentralmanageroptionrestoreidentifierkey?language=objc"
+    }
+  ],
+  "LastFetch": "2022-07-14T23:31:31.84040535+02:00",
+  "LastVersion": 2
+}

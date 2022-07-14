@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbperipheralmanager/2880158-unpublishl2capchannel?language=objc",
+  "Title": "unpublishL2CAPChannel:",
+  "Type": "Instance Method",
+  "Description": "",
+  "Declaration": "- (void)unpublishL2CAPChannel:(CBL2CAPPSM)PSM;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:32:21.921388985+02:00",
+  "LastVersion": 2
+}

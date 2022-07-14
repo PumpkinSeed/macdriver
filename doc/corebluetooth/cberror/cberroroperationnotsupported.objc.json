@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cberror/cberroroperationnotsupported?language=objc",
+  "Title": "CBErrorOperationNotSupported",
+  "Type": "Enumeration Case",
+  "Description": "",
+  "Declaration": "CBErrorOperationNotSupported = 13",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:33:48.751909227+02:00",
+  "LastVersion": 2
+}

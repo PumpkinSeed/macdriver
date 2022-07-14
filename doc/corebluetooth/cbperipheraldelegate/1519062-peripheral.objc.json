@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbperipheraldelegate/1519062-peripheral?language=objc",
+  "Title": "peripheral:didWriteValueForDescriptor:error:",
+  "Type": "Instance Method",
+  "Description": "",
+  "Declaration": "- (void)peripheral:(CBPeripheral *)peripheral \ndidWriteValueForDescriptor:(CBDescriptor *)descriptor \n             error:(NSError *)error;\n",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:32:05.846140658+02:00",
+  "LastVersion": 2
+}

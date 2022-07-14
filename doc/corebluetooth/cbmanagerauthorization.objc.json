@@ -1,0 +1,33 @@
+{
+  "Path": "/documentation/corebluetooth/cbmanagerauthorization?language=objc",
+  "Title": "CBManagerAuthorization",
+  "Type": "Enumeration",
+  "Description": "",
+  "Declaration": "typedef enum CBManagerAuthorization : NSInteger {\n    ...\n} CBManagerAuthorization;",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": [
+    {
+      "Section": "Authorization States",
+      "Name": "CBManagerAuthorizationAllowedAlways",
+      "Path": "/documentation/corebluetooth/cbmanagerauthorization/cbmanagerauthorizationallowedalways?language=objc"
+    },
+    {
+      "Section": "Authorization States",
+      "Name": "CBManagerAuthorizationDenied",
+      "Path": "/documentation/corebluetooth/cbmanagerauthorization/cbmanagerauthorizationdenied?language=objc"
+    },
+    {
+      "Section": "Authorization States",
+      "Name": "CBManagerAuthorizationNotDetermined",
+      "Path": "/documentation/corebluetooth/cbmanagerauthorization/cbmanagerauthorizationnotdetermined?language=objc"
+    },
+    {
+      "Section": "Authorization States",
+      "Name": "CBManagerAuthorizationRestricted",
+      "Path": "/documentation/corebluetooth/cbmanagerauthorization/cbmanagerauthorizationrestricted?language=objc"
+    }
+  ],
+  "LastFetch": "2022-07-14T23:33:20.059610848+02:00",
+  "LastVersion": 2
+}

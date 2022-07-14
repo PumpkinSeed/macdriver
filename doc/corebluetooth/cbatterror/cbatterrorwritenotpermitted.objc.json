@@ -1,0 +1,12 @@
+{
+  "Path": "/documentation/corebluetooth/cbatterror/cbatterrorwritenotpermitted?language=objc",
+  "Title": "CBATTErrorWriteNotPermitted",
+  "Type": "Enumeration Case",
+  "Description": "",
+  "Declaration": "CBATTErrorWriteNotPermitted = 0x03",
+  "Frameworks": null,
+  "Platforms": null,
+  "Topics": null,
+  "LastFetch": "2022-07-14T23:34:00.642701246+02:00",
+  "LastVersion": 2
+}
