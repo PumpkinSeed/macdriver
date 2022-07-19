@@ -8,10 +8,12 @@ import (
 
 /*
 #cgo CFLAGS: -x objective-c
-#cgo LDFLAGS: -lobjc
+#cgo LDFLAGS: -lobjc -framework CoreBluetooth
 #define __OBJC2__ 1
 #include <objc/message.h>
 #include <stdlib.h>
+
+#include <CoreBluetooth/CoreBluetooth.h>
 
 
 bool corebluetooth_convertObjCBool(BOOL b) {
